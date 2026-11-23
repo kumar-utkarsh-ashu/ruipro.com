@@ -11,28 +11,28 @@ export default function HomePage() {
   const latestNews = NEWS_ARTICLES.slice(0, 3);
 
   return (
-    <div className="space-y-16 sm:space-y-20 pb-16">
-      {/* 1. Hero Carousel: Clean, unobstructed high-definition banners */}
-      <section aria-label="Featured Banners">
+    <div className="w-full">
+      {/* 1. Hero Carousel + 2. Distributor Opportunity Strip - Seamless 0px gap */}
+      <section aria-label="Featured Banners and Announcements" className="w-full">
         <HeroCarousel />
-      </section>
-
-      {/* 2. Distributor Opportunity Strip: Solid Brand Orange matching HOME.png */}
-      <section className="w-full bg-[#F16D2C] py-4 px-4 text-center text-white shadow-md">
-        <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-center gap-2 text-sm sm:text-base font-semibold">
-          <span>Looking forward to becoming a Ruipro distributor?</span>
-          <Link
-            href="/contact#distributor"
-            className="underline hover:text-slate-900 transition-colors font-bold inline-flex items-center gap-1"
-          >
-            <span>Click here</span>
-            <ArrowRight className="w-4 h-4" />
-          </Link>
+        <div className="w-full bg-[#F16D2C] py-4 px-4 text-center text-white shadow-md">
+          <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-center gap-2 text-sm sm:text-base font-semibold">
+            <span>Looking forward to becoming a Ruipro distributor?</span>
+            <Link
+              href="/contact#distributor"
+              className="underline hover:text-slate-900 transition-colors font-bold inline-flex items-center gap-1"
+            >
+              <span>Click here</span>
+              <ArrowRight className="w-4 h-4" />
+            </Link>
+          </div>
         </div>
       </section>
 
-      {/* 3. Brand Introduction & Optical Advantage */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      {/* Main Content Sections with consistent vertical spacing */}
+      <div className="py-16 sm:py-20 space-y-16 sm:space-y-20">
+        {/* 3. Brand Introduction & Optical Advantage */}
+        <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center max-w-3xl mx-auto mb-12 sm:mb-16">
           <h2 className="text-2xl sm:text-4xl font-bold text-slate-900 font-heading">
             Welcome to the Official RUIPRO Website!
@@ -335,8 +335,9 @@ export default function HomePage() {
           </Link>
         </div>
       </section>
+      </div>
 
-      {/* 10. Callout Strip: Creating a High-Quality Media Room */}
+      {/* 10. Callout Strip: Creating a High-Quality Media Room - Sits directly flush against Universal Footer */}
       <section className="w-full bg-slate-900 text-white py-12 px-4 border-t border-slate-800">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-6 text-center sm:text-left">
           <div>
