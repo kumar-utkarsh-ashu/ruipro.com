@@ -6,7 +6,7 @@ import CertificateModal from '@/components/CertificateModal';
 import { CERTIFICATES } from '@/lib/data';
 
 export const metadata = {
-  title: 'About RUIPRO & SUNIIN TECHNOLOGY | Brand Story & Certifications',
+  title: 'About Us | RUIPRO Fiber Optic Connectivity',
   description: 'Learn about the history, engineering philosophy, and official HDMI Forum ATC certifications behind RUIPRO and SUNIIN TECHNOLOGY CO., LIMITED.',
 };
 
@@ -14,14 +14,14 @@ export default function AboutPage() {
   return (
     <div className="space-y-16 sm:space-y-20 pb-20">
       {/* 1. Hero Header */}
-      <section className="bg-slate-950 text-white py-16 sm:py-24 border-b border-slate-800">
+      <section className="bg-slate-950 text-white py-16 sm:py-20 border-b border-slate-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center max-w-3xl">
-          <span className="text-xs font-bold uppercase tracking-widest text-blue-400">Since 2015</span>
-          <h1 className="text-3xl sm:text-5xl font-bold font-heading mt-2 mb-6">
-            Pioneering Optical AV Connectivity
+          <h1 className="text-3xl sm:text-5xl font-bold font-heading mb-4">
+            About Us
           </h1>
+          <div className="w-16 h-0.5 bg-[#F16D2C] mx-auto mb-6" />
           <p className="text-sm sm:text-base text-slate-300 leading-relaxed">
-            RUIPRO is a specialized fiber optic connectivity brand of SUNIIN TECHNOLOGY CO., LIMITED. Since introducing our first fiber optic HDMI cables in 2016, we have set the benchmark for long-distance, high-bandwidth signal integrity.
+            RUIPRO is a fiber optic connectivity brand of SUNIIN TECHNOLOGY, a company established in 2015. Since introducing our first fiber optic HDMI cables in 2016, we have expanded our range to include DisplayPort cables, full-fiber solutions, detachable connectivity systems, and installation accessories.
           </p>
         </div>
       </section>
@@ -30,18 +30,18 @@ export default function AboutPage() {
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-5">
-            <span className="text-xs font-bold text-blue-600 uppercase tracking-widest">Company Profile</span>
             <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 font-heading">
-              Precision Engineering Meets Real-World Installation
+              Engineering Practical AV Connections
             </h2>
+            <div className="w-16 h-0.5 bg-[#F16D2C]" />
             <p className="text-sm text-slate-600 leading-relaxed">
-              Established in 2015, SUNIIN TECHNOLOGY recognized early that conventional copper HDMI cables could not reliably carry high-bandwidth signals beyond 15 to 20 feet without signal degradation, flicker, or handshake dropouts.
+              We develop and manufacture products for home theaters, gaming setups, professional AV systems, and integrated AV installations. Our work focuses on practical installation needs: reliable signal transmission over long distances, flexible cable routing, and connections that are easier to install, maintain, and upgrade.
             </p>
             <p className="text-sm text-slate-600 leading-relaxed">
-              In 2016, RUIPRO introduced its first generation of active optical HDMI cables. Over the following decade, our catalog expanded to include DisplayPort cables, pure-fiber solutions, detachable conduit-pulling connectivity systems, and architectural installation accessories.
+              RUIPRO has earned an international reputation for its fiber optic cables, with positive reviews across AV and technology publications, review websites, and enthusiast forums. Our products reach customers worldwide through retail channels and a network of distributors and AV resellers.
             </p>
             <p className="text-sm text-slate-600 leading-relaxed">
-              Today, RUIPRO products are trusted by custom home theater installers, commercial AV integrators, esports tournament producers, and medical imaging facilities worldwide.
+              From product development and manufacturing to quality control and technical support, we work closely with customers and installation partners to address real connection challenges and improve the products we make.
             </p>
           </div>
 
@@ -57,33 +57,33 @@ export default function AboutPage() {
       </section>
 
       {/* 3. Core Values */}
-      <section className="bg-slate-100 py-16 border-y border-slate-200">
+      <section className="bg-slate-50 py-16 border-y border-slate-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-2xl mx-auto mb-10">
-            <span className="text-xs font-bold text-blue-600 uppercase tracking-widest">Our Guiding Compass</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 font-heading mt-1">Our Core Values</h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 font-heading">Our Core Values</h2>
+            <div className="w-16 h-0.5 bg-[#F16D2C] mx-auto mt-3" />
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             <div className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
-              <span className="text-blue-600 font-bold text-lg mb-2 block">01</span>
+              <span className="text-[#F16D2C] font-bold text-lg mb-2 block">01</span>
               <h3 className="font-bold text-slate-900 text-sm mb-2">Category Leadership</h3>
-              <p className="text-xs text-slate-600">To continue on as the best HDMI fiber cable leaders in our field worldwide.</p>
+              <p className="text-xs text-slate-600">To continue on as the best HDMI Fibre cable leaders in our field worldwide.</p>
             </div>
             <div className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
-              <span className="text-blue-600 font-bold text-lg mb-2 block">02</span>
+              <span className="text-[#F16D2C] font-bold text-lg mb-2 block">02</span>
               <h3 className="font-bold text-slate-900 text-sm mb-2">Technical Mastery</h3>
-              <p className="text-xs text-slate-600">We maintain the best technical know-how and testing equipment currently available.</p>
+              <p className="text-xs text-slate-600">We have the best know how and equipment currently available.</p>
             </div>
             <div className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
-              <span className="text-blue-600 font-bold text-lg mb-2 block">03</span>
+              <span className="text-[#F16D2C] font-bold text-lg mb-2 block">03</span>
               <h3 className="font-bold text-slate-900 text-sm mb-2">Trend Alignment</h3>
-              <p className="text-xs text-slate-600">Stay continuously up-to-date with AV trends and produce the highest standard of cables.</p>
+              <p className="text-xs text-slate-600">Be up to date with AV trends & produce best cables possible.</p>
             </div>
             <div className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
-              <span className="text-blue-600 font-bold text-lg mb-2 block">04</span>
-              <h3 className="font-bold text-slate-900 text-sm mb-2">Global Excellence</h3>
-              <p className="text-xs text-slate-600">To produce the most reliable and highest-performing HDMI fiber cables on the planet.</p>
+              <span className="text-[#F16D2C] font-bold text-lg mb-2 block">04</span>
+              <h3 className="font-bold text-slate-900 text-sm mb-2">Uncompromising Quality</h3>
+              <p className="text-xs text-slate-600">To produce the best HDMI Fibre cables on the planet.</p>
             </div>
           </div>
         </div>
@@ -92,12 +92,12 @@ export default function AboutPage() {
       {/* 4. Official Certifications Vault */}
       <section id="certificates" className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center max-w-2xl mx-auto mb-10">
-          <span className="text-xs font-bold text-blue-600 uppercase tracking-widest">Compliance & Laboratory Verification</span>
-          <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 font-heading mt-1">
+          <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 font-heading">
             Official Certifications Vault
           </h2>
-          <p className="text-xs sm:text-sm text-slate-500 mt-2">
-            RUIPRO cables undergo rigorous Authorized Test Center (ATC) verification. All documents are issued under our parent corporation SUNIIN TECHNOLOGY CO., LIMITED.
+          <div className="w-16 h-0.5 bg-[#F16D2C] mx-auto mt-3 mb-4" />
+          <p className="text-xs sm:text-sm text-slate-500">
+            RUIPRO is a brand owned by SUNIIN TECHNOLOGY CO., LIMITED, so compliance documents are issued under the SUNIIN company name.
           </p>
         </div>
 
@@ -108,24 +108,24 @@ export default function AboutPage() {
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="bg-slate-950 text-white rounded-2xl p-8 sm:p-12 border border-slate-800">
           <div className="max-w-3xl">
-            <span className="text-xs font-bold uppercase tracking-wider text-blue-400">Trade Shows & Global Outreach</span>
-            <h2 className="text-2xl sm:text-3xl font-bold font-heading mt-1 mb-4">
-              Connecting with Integrators Around the World
+            <h2 className="text-2xl sm:text-3xl font-bold font-heading mb-2">
+              Trade Shows & Global Outreach
             </h2>
+            <div className="w-16 h-0.5 bg-[#F16D2C] mb-4" />
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed mb-6">
               RUIPRO regularly showcases optical cable innovations at premier international trade events, including the Hong Kong Electronics Fair, ISE Barcelona, and InfoComm. Our leadership team meets directly with distributors and AV specialists to engineer next-generation solutions.
             </p>
             <div className="flex flex-wrap gap-4">
               <Link
                 href="/contact"
-                className="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-500 text-white px-6 py-3 rounded-lg text-xs sm:text-sm font-semibold transition-all"
+                className="inline-flex items-center gap-2 bg-[#F16D2C] hover:bg-[#d9571f] text-white px-6 py-3 rounded-lg text-xs sm:text-sm font-semibold transition-all shadow-md"
               >
                 <span>Partner with RUIPRO</span>
                 <ArrowRight className="w-4 h-4" />
               </Link>
               <Link
                 href="/news"
-                className="inline-flex items-center gap-2 bg-slate-800 hover:bg-slate-700 text-slate-200 px-6 py-3 rounded-lg text-xs sm:text-sm font-semibold transition-all border border-slate-700"
+                className="inline-flex items-center gap-2 bg-slate-850 hover:bg-slate-800 text-slate-200 px-6 py-3 rounded-lg text-xs sm:text-sm font-semibold transition-all border border-slate-700"
               >
                 <span>View Trade Show News</span>
               </Link>

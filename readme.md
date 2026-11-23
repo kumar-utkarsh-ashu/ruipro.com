@@ -1,15 +1,15 @@
 # RUIPRO Brand Showcase Website Redesign - Master Plan and Documentation
 
 ## Version Information
-- Current Version: Version 1.1.0
-- Phase: Phase 2 - Interactive Prototype Engineering (Next.js, Tailwind, shadcn)
+- Current Version: Version 1.2.0
+- Phase: Phase 2 - Design System Brand Alignment and Hero Banner Fix
 - Date: 2026-11-23
 - Author: Antigravity Development Team
 
 ---
 
 ## 1. Project Overview and Objectives
-The core objective is to redesign and re-architect the official brand showcase website for RUIPRO (https://ruipro.com/) on WordPress. The redesigned site will reflect the modern, high-performance visual identity of the active Shopify e-commerce store (https://ruipro.store/), while acting as an authoritative brand showcase, catalog explorer, distributor portal, and lead generation engine.
+The core objective is to redesign and re-architect the official brand showcase website for RUIPRO (https://ruipro.com/) on WordPress. The redesigned site reflects the modern, high-performance visual identity of the active Shopify e-commerce store (https://ruipro.store/), while acting as an authoritative brand showcase, catalog explorer, distributor portal, and lead generation engine.
 
 All purchasing transactions remain decoupled from the WordPress showcase site: product call-to-actions (CTAs) link outbound directly to dedicated Shopify product pages or verified Amazon listings.
 
@@ -26,7 +26,11 @@ All work on this project strictly follows the IMET structure:
 
 ## 3. Version History Ledger
 - Version 1.0.0 (2026-11-23): Initial creation of comprehensive project architecture, UI/UX specifications, database models, technical stack selection, deployment runbooks, modular breakdown, and test plans across the doc directory.
-- Version 1.1.0 (2026-11-23): Transition to Phase 2 Prototype implementation in GitHub connected repository. Ingestion of 9 flagship product datasets, high-resolution imagery, historical news archive (17 posts), and engineering of Next.js 14 App Router prototype with Tailwind CSS and reusable shadcn components.
+- Version 1.1.0 (2026-11-23): Transition to Phase 2 Prototype implementation in GitHub connected repository. Ingestion of 9 flagship product datasets, high-resolution imagery, historical news archive (17 posts), and engineering of Next.js 14 App Router prototype with Tailwind CSS and reusable components.
+- Version 1.2.0 (2026-11-23): Brand Identity Alignment and Hero Banner Optimization:
+  1. Fixed hero banner text collision: removed redundant HTML overlay that clashed with pre-rendered banner graphic typography, making slides clean, unobstructed, and clickable.
+  2. Brand Color Palette Transformation: switched site theme from generic blue to official RUIPRO Brand Orange (#F16D2C / rgb(241, 109, 44)) matching the official logo, ruipro.store, and HOME.png reference design.
+  3. Rebranded buttons, distributor strips, metrics, badges, headers, footers, and active navigation states.
 
 ---
 

@@ -10,7 +10,7 @@ export default function UniversalFooter() {
       <div className="border-b border-slate-800/80 bg-slate-900/40 py-10 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 items-center text-center md:text-left">
           <div className="flex items-center justify-center md:justify-start gap-4">
-            <div className="w-12 h-12 rounded-lg bg-blue-600/10 border border-blue-500/20 flex items-center justify-center text-blue-400">
+            <div className="w-12 h-12 rounded-lg bg-orange-600/10 border border-orange-500/20 flex items-center justify-center text-[#F16D2C]">
               <ShieldCheck className="w-6 h-6" />
             </div>
             <div>
@@ -19,7 +19,7 @@ export default function UniversalFooter() {
             </div>
           </div>
           <div className="flex items-center justify-center md:justify-start gap-4">
-            <div className="w-12 h-12 rounded-lg bg-blue-600/10 border border-blue-500/20 flex items-center justify-center text-blue-400">
+            <div className="w-12 h-12 rounded-lg bg-orange-600/10 border border-orange-500/20 flex items-center justify-center text-[#F16D2C]">
               <Globe className="w-6 h-6" />
             </div>
             <div>
@@ -28,7 +28,7 @@ export default function UniversalFooter() {
             </div>
           </div>
           <div className="flex items-center justify-center md:justify-start gap-4">
-            <div className="w-12 h-12 rounded-lg bg-blue-600/10 border border-blue-500/20 flex items-center justify-center text-blue-400">
+            <div className="w-12 h-12 rounded-lg bg-orange-600/10 border border-orange-500/20 flex items-center justify-center text-[#F16D2C]">
               <Phone className="w-6 h-6" />
             </div>
             <div>
@@ -56,17 +56,25 @@ export default function UniversalFooter() {
           </p>
           <div className="pt-2 space-y-2 text-xs text-slate-400">
             <p className="flex items-start gap-2">
-              <MapPin className="w-4 h-4 text-blue-400 shrink-0 mt-0.5" />
+              <MapPin className="w-4 h-4 text-[#F16D2C] shrink-0 mt-0.5" />
               <span>101 Convention Center Dr Ste 900, Las Vegas, NV 89109, United States</span>
             </p>
             <p className="flex items-center gap-2">
-              <Mail className="w-4 h-4 text-blue-400 shrink-0" />
+              <Mail className="w-4 h-4 text-[#F16D2C] shrink-0" />
               <a href="mailto:support@ruipro.com" className="hover:text-white transition-colors">support@ruipro.com</a>
             </p>
             <p className="flex items-center gap-2">
-              <Phone className="w-4 h-4 text-blue-400 shrink-0" />
+              <Phone className="w-4 h-4 text-[#F16D2C] shrink-0" />
               <span>+86 182 6783 3801 (WhatsApp Business)</span>
             </p>
+          </div>
+          <div className="pt-2">
+            <Link
+              href="/about"
+              className="inline-flex items-center gap-1.5 bg-[#F16D2C] hover:bg-[#d9571f] text-white px-4 py-2 rounded text-xs font-semibold uppercase tracking-wider transition-colors"
+            >
+              <span>Learn More</span>
+            </Link>
           </div>
         </div>
 
@@ -74,12 +82,12 @@ export default function UniversalFooter() {
         <div className="space-y-3">
           <h4 className="text-white font-semibold text-sm tracking-wider uppercase text-xs">Showcase Products</h4>
           <ul className="space-y-2 text-xs">
-            <li><Link href="/products/ruipro-8k-gen4ak-detachable-full-fiber-armored-hdmi-cable" className="hover:text-white transition-colors">8K Gen4AK Detachable HDMI</Link></li>
-            <li><Link href="/products/ruipro-8k-armored-full-fiber-optic-hdmi-2-1-cable" className="hover:text-white transition-colors">8K Armored Pure Fiber HDMI</Link></li>
-            <li><Link href="/products/8k-detachable-full-fiber-optic-armored-displayport-cable" className="hover:text-white transition-colors">8K Detachable DisplayPort 1.4</Link></li>
-            <li><Link href="/products/8k-displayport-to-hdmi-detachable-modules" className="hover:text-white transition-colors">DP to HDMI Detachable Modules</Link></li>
-            <li><Link href="/products/8k-hdmi-fiber-cable-cl2-rated" className="hover:text-white transition-colors">8K CL2 In-Wall Rated HDMI</Link></li>
-            <li><Link href="/products/ruipro-8k-fiber-hdmi-cable-48gbps-certified" className="hover:text-white transition-colors">8K HDMI 2.1b ATC Certified</Link></li>
+            <li><Link href="/products/ruipro-8k-gen4ak-detachable-full-fiber-armored-hdmi-cable" className="hover:text-[#F16D2C] transition-colors">8K Gen4AK Detachable HDMI</Link></li>
+            <li><Link href="/products/ruipro-8k-armored-full-fiber-optic-hdmi-2-1-cable" className="hover:text-[#F16D2C] transition-colors">8K Armored Pure Fiber HDMI</Link></li>
+            <li><Link href="/products/8k-detachable-full-fiber-optic-armored-displayport-cable" className="hover:text-[#F16D2C] transition-colors">8K Detachable DisplayPort 1.4</Link></li>
+            <li><Link href="/products/8k-displayport-to-hdmi-detachable-modules" className="hover:text-[#F16D2C] transition-colors">DP to HDMI Detachable Modules</Link></li>
+            <li><Link href="/products/8k-hdmi-fiber-cable-cl2-rated" className="hover:text-[#F16D2C] transition-colors">8K CL2 In-Wall Rated HDMI</Link></li>
+            <li><Link href="/products/ruipro-8k-fiber-hdmi-cable-48gbps-certified" className="hover:text-[#F16D2C] transition-colors">8K HDMI 2.1b ATC Certified</Link></li>
           </ul>
         </div>
 
@@ -87,11 +95,11 @@ export default function UniversalFooter() {
         <div className="space-y-3">
           <h4 className="text-white font-semibold text-sm tracking-wider uppercase text-xs">Corporate & News</h4>
           <ul className="space-y-2 text-xs">
-            <li><Link href="/about" className="hover:text-white transition-colors">About SUNIIN & RUIPRO</Link></li>
-            <li><Link href="/about#certificates" className="hover:text-white transition-colors">Quality & ATC Certificates</Link></li>
-            <li><Link href="/news" className="hover:text-white transition-colors">Company News & Awards</Link></li>
-            <li><Link href="/contact#distributors" className="hover:text-white transition-colors">Global Distributor Network</Link></li>
-            <li><Link href="/contact" className="hover:text-white transition-colors">Customer Support & Inquiry</Link></li>
+            <li><Link href="/about" className="hover:text-[#F16D2C] transition-colors">About SUNIIN & RUIPRO</Link></li>
+            <li><Link href="/about#certificates" className="hover:text-[#F16D2C] transition-colors">Quality & ATC Certificates</Link></li>
+            <li><Link href="/news" className="hover:text-[#F16D2C] transition-colors">Company News & Awards</Link></li>
+            <li><Link href="/contact#distributors" className="hover:text-[#F16D2C] transition-colors">Global Distributor Network</Link></li>
+            <li><Link href="/contact" className="hover:text-[#F16D2C] transition-colors">Customer Support & Inquiry</Link></li>
           </ul>
         </div>
 
@@ -100,30 +108,30 @@ export default function UniversalFooter() {
           <h4 className="text-white font-semibold text-sm tracking-wider uppercase text-xs">Purchasing Channels</h4>
           <ul className="space-y-2 text-xs">
             <li>
-              <a href="https://ruipro.store/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 hover:text-white transition-colors text-blue-400 font-medium">
+              <a href="https://ruipro.store/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 hover:text-white transition-colors text-[#F16D2C] font-medium">
                 <span>Official Store (ruipro.store)</span>
                 <ExternalLink className="w-3 h-3" />
               </a>
             </li>
             <li>
-              <a href="https://www.amazon.com/dp/B0BTGG3GTF?th=1" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 hover:text-white transition-colors text-blue-400 font-medium">
+              <a href="https://www.amazon.com/dp/B0BTGG3GTF?th=1" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 hover:text-white transition-colors text-[#F16D2C] font-medium">
                 <span>Amazon US Store</span>
                 <ExternalLink className="w-3 h-3" />
               </a>
             </li>
-            <li><Link href="/contact#china-distributor" className="hover:text-white transition-colors">China/HK/Macao Notice</Link></li>
+            <li><Link href="/contact#china-distributor" className="hover:text-[#F16D2C] transition-colors">China/HK/Macao Notice</Link></li>
           </ul>
 
           <div className="pt-3">
             <h5 className="text-slate-300 font-semibold text-xs mb-2">Follow Us</h5>
             <div className="space-y-1.5 text-xs">
-              <a href="https://www.facebook.com/groups/ruipro.official" target="_blank" rel="noopener noreferrer" className="block hover:text-white text-slate-400 transition-colors">
+              <a href="https://www.facebook.com/groups/ruipro.official" target="_blank" rel="noopener noreferrer" className="block hover:text-[#F16D2C] text-slate-400 transition-colors">
                 Facebook Community Group
               </a>
-              <a href="https://www.instagram.com/ruipro.official" target="_blank" rel="noopener noreferrer" className="block hover:text-white text-slate-400 transition-colors">
+              <a href="https://www.instagram.com/ruipro.official" target="_blank" rel="noopener noreferrer" className="block hover:text-[#F16D2C] text-slate-400 transition-colors">
                 Instagram (@ruipro.official)
               </a>
-              <a href="https://www.tiktok.com/@ruipro1direct" target="_blank" rel="noopener noreferrer" className="block hover:text-white text-slate-400 transition-colors">
+              <a href="https://www.tiktok.com/@ruipro1direct" target="_blank" rel="noopener noreferrer" className="block hover:text-[#F16D2C] text-slate-400 transition-colors">
                 TikTok (@ruipro1direct)
               </a>
             </div>
@@ -137,7 +145,7 @@ export default function UniversalFooter() {
           <p>
             Notice for Mainland China, Hong Kong & Macao: Direct sales through ruipro.com/ruipro.store do not ship to these regions. Authorized distributor: Guangzhou Kejun Technology Co., Ltd. (Tel/WeChat: 13602763839).
           </p>
-          <Link href="/contact#china-distributor" className="text-blue-400 hover:text-blue-300 underline shrink-0">
+          <Link href="/contact#china-distributor" className="text-[#F16D2C] hover:underline shrink-0">
             View Details
           </Link>
         </div>

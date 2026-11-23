@@ -29,26 +29,26 @@ export default function UniversalHeader() {
 
   return (
     <header className="sticky top-0 z-50 w-full bg-slate-950/95 backdrop-blur border-b border-slate-800 text-slate-100">
-      {/* Top Announcement Bar */}
-      <div className="bg-blue-900/60 border-b border-blue-800/40 px-4 py-2 text-xs font-medium text-slate-200">
+      {/* Top Utility Bar */}
+      <div className="bg-slate-900 border-b border-slate-800 px-4 py-2 text-xs font-medium text-slate-300">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-2">
           <div className="flex items-center gap-2 text-center sm:text-left">
-            <span className="bg-blue-600 text-white px-2 py-0.5 rounded text-[10px] font-bold tracking-wider uppercase">Notice</span>
+            <span className="bg-[#F16D2C] text-white px-2 py-0.5 rounded text-[10px] font-bold tracking-wider uppercase">Notice</span>
             <span>Looking forward to becoming a RUIPRO distributor?</span>
-            <Link href="/contact#distributor" className="text-blue-300 underline hover:text-white transition-colors">
+            <Link href="/contact#distributor" className="text-[#F16D2C] hover:text-white underline transition-colors">
               Click here to apply
             </Link>
           </div>
           <div className="flex items-center gap-4 text-slate-300">
             <span className="hidden md:inline-flex items-center gap-1.5 text-slate-400">
-              <ShieldCheck className="w-3.5 h-3.5 text-blue-400" />
+              <ShieldCheck className="w-3.5 h-3.5 text-[#F16D2C]" />
               Official Brand Showcase
             </span>
             <a
               href="https://ruipro.store/collections/all"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-1 text-blue-300 hover:text-white transition-colors font-semibold"
+              className="inline-flex items-center gap-1 text-[#F16D2C] hover:text-white transition-colors font-semibold"
             >
               <span>Store: ruipro.store</span>
               <ExternalLink className="w-3 h-3" />
@@ -86,9 +86,9 @@ export default function UniversalHeader() {
                 >
                   <Link
                     href={link.href}
-                    className={`inline-flex items-center gap-1 transition-colors py-2 ${
-                      isActive ? 'text-blue-400 font-semibold' : 'text-slate-300 hover:text-white'
-                    }`}
+                    className={'inline-flex items-center gap-1 transition-colors py-2 ' + (
+                      isActive ? 'text-[#F16D2C] font-semibold' : 'text-slate-300 hover:text-[#F16D2C]'
+                    )}
                   >
                     <span>{link.name}</span>
                     <ChevronDown className="w-4 h-4 text-slate-400" />
@@ -102,7 +102,7 @@ export default function UniversalHeader() {
                           <Link
                             key={cat.name}
                             href={cat.href}
-                            className="block px-3 py-2 text-xs text-slate-300 hover:text-white hover:bg-slate-800/80 rounded transition-colors"
+                            className="block px-3 py-2 text-xs text-slate-300 hover:text-white hover:bg-slate-800 rounded transition-colors"
                           >
                             {cat.name}
                           </Link>
@@ -118,9 +118,9 @@ export default function UniversalHeader() {
               <Link
                 key={link.name}
                 href={link.href}
-                className={`transition-colors py-2 ${
-                  isActive ? 'text-blue-400 font-semibold' : 'text-slate-300 hover:text-white'
-                }`}
+                className={'transition-colors py-2 ' + (
+                  isActive ? 'text-[#F16D2C] font-semibold' : 'text-slate-300 hover:text-[#F16D2C]'
+                )}
               >
                 {link.name}
               </Link>
@@ -134,11 +134,11 @@ export default function UniversalHeader() {
             href="https://ruipro.store/collections/all"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-500 text-white px-5 py-2.5 rounded-lg text-sm font-semibold transition-all shadow-lg shadow-blue-600/20 active:scale-95"
+            className="inline-flex items-center gap-2 bg-[#F16D2C] hover:bg-[#d9571f] text-white px-5 py-2.5 rounded-lg text-sm font-semibold transition-all shadow-lg shadow-orange-600/20 active:scale-95"
           >
             <ShoppingBag className="w-4 h-4" />
             <span>Shop Official Store</span>
-            <ExternalLink className="w-3.5 h-3.5 opacity-70" />
+            <ExternalLink className="w-3.5 h-3.5 opacity-80" />
           </a>
         </div>
 
@@ -148,7 +148,7 @@ export default function UniversalHeader() {
             href="https://ruipro.store/collections/all"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-1.5 bg-blue-600 text-white px-3 py-1.5 rounded text-xs font-semibold"
+            className="inline-flex items-center gap-1.5 bg-[#F16D2C] text-white px-3 py-1.5 rounded text-xs font-semibold"
           >
             <span>Shop</span>
             <ExternalLink className="w-3 h-3" />
@@ -173,9 +173,9 @@ export default function UniversalHeader() {
                 <Link
                   href={link.href}
                   onClick={() => setMobileMenuOpen(false)}
-                  className={`block text-base font-medium py-1 ${
-                    isActive ? 'text-blue-400 font-semibold' : 'text-slate-200'
-                  }`}
+                  className={'block text-base font-medium py-1 ' + (
+                    isActive ? 'text-[#F16D2C] font-semibold' : 'text-slate-200'
+                  )}
                 >
                   {link.name}
                 </Link>
@@ -201,7 +201,7 @@ export default function UniversalHeader() {
               href="https://ruipro.store/collections/all"
               target="_blank"
               rel="noopener noreferrer"
-              className="w-full flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-500 text-white py-3 rounded-lg text-sm font-semibold transition-all"
+              className="w-full flex items-center justify-center gap-2 bg-[#F16D2C] hover:bg-[#d9571f] text-white py-3 rounded-lg text-sm font-semibold transition-all"
             >
               <ShoppingBag className="w-4 h-4" />
               <span>Shop on ruipro.store</span>

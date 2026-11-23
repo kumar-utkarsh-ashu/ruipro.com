@@ -42,7 +42,7 @@ export default function NewsDetailPage({
       <div>
         <Link
           href="/news"
-          className="inline-flex items-center gap-2 text-xs font-semibold text-slate-500 hover:text-blue-600 transition-colors"
+          className="inline-flex items-center gap-2 text-xs font-semibold text-slate-500 hover:text-[#F16D2C] transition-colors"
         >
           <ArrowLeft className="w-4 h-4" />
           <span>Back to All News</span>
@@ -52,7 +52,7 @@ export default function NewsDetailPage({
       {/* Header Info */}
       <header className="space-y-4">
         <div className="flex items-center gap-3 text-xs">
-          <span className="bg-blue-100 text-blue-700 font-bold px-3 py-1 rounded-full uppercase tracking-wider text-[11px]">
+          <span className="bg-orange-50 text-[#F16D2C] font-bold px-3 py-1 rounded-full uppercase tracking-wider text-[11px]">
             {article.category}
           </span>
           <span className="text-slate-400 flex items-center gap-1">
@@ -88,7 +88,7 @@ export default function NewsDetailPage({
 
       {/* Article Content */}
       <article className="prose prose-slate max-w-none text-slate-700 text-sm sm:text-base leading-relaxed space-y-4">
-        <p className="text-base sm:text-lg font-medium text-slate-900 leading-relaxed border-l-4 border-blue-600 pl-4 py-1 italic bg-slate-50 rounded-r-lg">
+        <p className="text-base sm:text-lg font-medium text-slate-900 leading-relaxed border-l-4 border-[#F16D2C] pl-4 py-1 italic bg-orange-50/50 rounded-r-lg">
           {article.excerpt}
         </p>
         <p className="whitespace-pre-line pt-4">
@@ -101,7 +101,7 @@ export default function NewsDetailPage({
         {prevArticle ? (
           <Link
             href={'/news/' + prevArticle.slug}
-            className="p-4 rounded-xl border border-slate-200 hover:border-blue-400 hover:bg-slate-50 transition-all flex flex-col group"
+            className="p-4 rounded-xl border border-slate-200 hover:border-[#F16D2C] hover:bg-slate-50 transition-all flex flex-col group"
           >
             <span className="text-[11px] font-semibold text-slate-400 uppercase tracking-wider flex items-center gap-1 mb-1">
               <ArrowLeft className="w-3 h-3 group-hover:-translate-x-0.5 transition-transform" />
@@ -114,7 +114,7 @@ export default function NewsDetailPage({
         {nextArticle ? (
           <Link
             href={'/news/' + nextArticle.slug}
-            className="p-4 rounded-xl border border-slate-200 hover:border-blue-400 hover:bg-slate-50 transition-all flex flex-col items-end text-right group"
+            className="p-4 rounded-xl border border-slate-200 hover:border-[#F16D2C] hover:bg-slate-50 transition-all flex flex-col items-end text-right group"
           >
             <span className="text-[11px] font-semibold text-slate-400 uppercase tracking-wider flex items-center gap-1 mb-1">
               Next Article

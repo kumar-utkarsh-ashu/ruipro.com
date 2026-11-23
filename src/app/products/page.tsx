@@ -5,7 +5,7 @@ import ProductCard from '@/components/ProductCard';
 import { PRODUCTS } from '@/lib/data';
 
 export const metadata = {
-  title: 'Products Showcase - RUIPRO 8K HDMI & DisplayPort Optical Cables',
+  title: 'Product Showcase | RUIPRO Official 9-Product Catalog',
   description: 'Explore the complete RUIPRO 9-product catalog featuring 8K detachable armored HDMI 2.1 cables, DisplayPort 1.4 cables, MPO bulk trunk fiber, and keystone wall plates.',
 };
 
@@ -33,12 +33,12 @@ export default function ProductsPage({
       {/* 1. Header */}
       <section className="bg-slate-950 text-white py-16 border-b border-slate-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center max-w-3xl">
-          <span className="text-xs font-bold uppercase tracking-widest text-blue-400">Official Product Showcase</span>
-          <h1 className="text-3xl sm:text-4xl font-bold font-heading mt-2 mb-4">
-            RUIPRO 9-Product Showcase Catalog
+          <h1 className="text-3xl sm:text-4xl font-bold font-heading mb-4">
+            Product Showcase
           </h1>
+          <div className="w-16 h-0.5 bg-[#F16D2C] mx-auto mb-4" />
           <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
-            Explore our flagship fiber optic solutions engineered for home theaters, gaming setups, and commercial AV systems. Click any product to view comprehensive technical specifications or purchase directly on our official store or Amazon.
+            For our dedicated Product Showcase page, we feature 9 key products and product ranges sold on ruipro.store. Click any product below to view full details, specifications, and direct purchase options on our official store or Amazon.
           </p>
         </div>
       </section>
@@ -55,7 +55,7 @@ export default function ProductsPage({
                 href={href}
                 className={'px-4 py-2 rounded-lg text-xs font-semibold transition-all ' + (
                   isSelected
-                    ? 'bg-blue-600 text-white shadow-sm'
+                    ? 'bg-[#F16D2C] text-white shadow-sm'
                     : 'text-slate-700 hover:text-slate-900 hover:bg-slate-200/50'
                 )}
               >
@@ -79,7 +79,7 @@ export default function ProductsPage({
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="bg-white rounded-2xl border border-slate-200 overflow-hidden shadow-sm">
           <div className="bg-slate-900 text-white p-6 sm:p-8">
-            <span className="text-xs font-bold uppercase tracking-wider text-blue-400">Decision Guide</span>
+            <span className="text-xs font-bold uppercase tracking-wider text-[#F16D2C]">Decision Guide</span>
             <h2 className="text-xl sm:text-2xl font-bold font-heading mt-1">
               Flagship HDMI Optical Cables Comparison
             </h2>
@@ -102,10 +102,10 @@ export default function ProductsPage({
               <tbody className="divide-y divide-slate-100 text-slate-600">
                 <tr>
                   <td className="p-4 font-semibold text-slate-900">Max Bandwidth</td>
-                  <td className="p-4 text-blue-600 font-bold">48Gbps</td>
-                  <td className="p-4 text-blue-600 font-bold">48Gbps</td>
-                  <td className="p-4 text-blue-600 font-bold">48Gbps</td>
-                  <td className="p-4 text-blue-600 font-bold">48Gbps</td>
+                  <td className="p-4 text-[#F16D2C] font-bold">48Gbps</td>
+                  <td className="p-4 text-[#F16D2C] font-bold">48Gbps</td>
+                  <td className="p-4 text-[#F16D2C] font-bold">48Gbps</td>
+                  <td className="p-4 text-[#F16D2C] font-bold">48Gbps</td>
                 </tr>
                 <tr>
                   <td className="p-4 font-semibold text-slate-900">Detachable Connector Head</td>
@@ -150,13 +150,13 @@ export default function ProductsPage({
 
       {/* 5. Conduit Guidance Box */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="bg-blue-50 border border-blue-200 rounded-2xl p-6 sm:p-8 flex items-start gap-4">
-          <Info className="w-6 h-6 text-blue-600 shrink-0 mt-0.5" />
+        <div className="bg-orange-50 border border-orange-200 rounded-2xl p-6 sm:p-8 flex items-start gap-4">
+          <Info className="w-6 h-6 text-[#F16D2C] shrink-0 mt-0.5" />
           <div className="space-y-1">
-            <h3 className="text-sm font-bold text-blue-900 font-heading">
+            <h3 className="text-sm font-bold text-slate-900 font-heading">
               Architectural & Conduit Pulling Note for AV Integrators
             </h3>
-            <p className="text-xs text-blue-800 leading-relaxed">
+            <p className="text-xs text-slate-700 leading-relaxed">
               When routing through in-wall electrical conduits, we strongly recommend our Gen4AK Detachable HDMI (P01) or Detachable DisplayPort (P03) models. The outer diameter of the detachable sub-connector is only 12.5mm, permitting easy pulling through standard 20mm (3/4-inch) flexible or rigid conduits without requiring messy wall cutting or risking connector pin damage.
             </p>
           </div>

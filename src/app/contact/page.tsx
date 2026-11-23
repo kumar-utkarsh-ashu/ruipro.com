@@ -5,7 +5,7 @@ import ContactForm from '@/components/ContactForm';
 import { DISTRIBUTORS } from '@/lib/data';
 
 export const metadata = {
-  title: 'Contact Us & Global Distributors | RUIPRO Official Support',
+  title: 'Contact Us | RUIPRO Fiber Optic Connectivity',
   description: 'Get in touch with RUIPRO corporate headquarters, apply for authorized distribution, or contact regional distributors across Australia, Europe, and Mainland China.',
 };
 
@@ -15,10 +15,10 @@ export default function ContactPage() {
       {/* 1. Header */}
       <section className="bg-slate-950 text-white py-16 border-b border-slate-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center max-w-3xl">
-          <span className="text-xs font-bold uppercase tracking-widest text-blue-400">Customer Support & Channel Partners</span>
-          <h1 className="text-3xl sm:text-4xl font-bold font-heading mt-2 mb-4">
-            Contact RUIPRO & Global Distributors
+          <h1 className="text-3xl sm:text-4xl font-bold font-heading mb-4">
+            Contact Us
           </h1>
+          <div className="w-16 h-0.5 bg-[#F16D2C] mx-auto mb-4" />
           <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
             Reach out for technical guidance, warranty inquiries, custom optical cable lengths, or international distribution partnerships.
           </p>
@@ -29,7 +29,7 @@ export default function ContactPage() {
       <section id="china-distributor" className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="bg-amber-50 border border-amber-300/80 rounded-2xl p-6 sm:p-8 shadow-sm">
           <div className="flex items-start gap-4">
-            <div className="p-3 bg-amber-100 rounded-xl text-amber-700 shrink-0">
+            <div className="p-3 bg-amber-100 rounded-xl text-[#F16D2C] shrink-0">
               <AlertTriangle className="w-6 h-6" />
             </div>
             <div className="space-y-3">
@@ -38,19 +38,19 @@ export default function ContactPage() {
                   Territory Notice
                 </span>
                 <h3 className="text-base sm:text-lg font-bold text-amber-950 font-heading mt-1">
-                  Mainland China, Hong Kong & Macao Authorized Distributor Notice
+                  Mainland China, Hong Kong & Macao Official Distributor
                 </h3>
               </div>
               <p className="text-xs sm:text-sm text-amber-900 leading-relaxed">
-                At this time, we do not offer direct shipping or sales to Mainland China, Hong Kong, or Macao via ruipro.com or ruipro.store. To ensure full after-sales support and authentic warranty coverage, customers in these regions must contact our official authorized distributor:
+                At this time, we do not offer direct shipping or sales to Mainland China, Hong Kong, or Macao. To ensure the best experience and full after-sales support, we kindly ask customers in these regions to contact our official authorized distributor:
               </p>
               <div className="bg-white/80 border border-amber-200 rounded-xl p-4 text-xs sm:text-sm text-slate-800 space-y-1">
-                <div className="font-bold text-slate-900">Guangzhou Kejun Technology Co., Ltd. (广州市可君科技有限公司)</div>
-                <div><strong>Phone / WeChat:</strong> 13602763839</div>
+                <div className="font-bold text-slate-900">广州市可君科技有限公司 (Guangzhou Kejun Technology Co., Ltd.)</div>
+                <div><strong>Tel / WeChat:</strong> 13602763839</div>
                 <div><strong>Email:</strong> gztopsound@hotmail.com</div>
               </div>
               <p className="text-[11px] text-amber-800 italic">
-                Notice: Purchases from unauthorized third parties or overseas Amazon exports are not eligible for local warranty service in these regions.
+                We kindly remind customers in Mainland China, Hong Kong, and Macau: Please purchase through this distributor for warranty and service support. Purchases from RUIPROs official website or Amazon are not eligible for warranty service in these regions.
               </p>
             </div>
           </div>
@@ -64,13 +64,13 @@ export default function ContactPage() {
           <div className="space-y-6">
             <div className="bg-white rounded-2xl border border-slate-200 p-6 sm:p-8 shadow-sm space-y-6">
               <div>
-                <span className="text-xs font-bold text-blue-600 uppercase tracking-widest">Headquarters</span>
-                <h3 className="text-xl font-bold text-slate-900 font-heading mt-1">United States Office</h3>
+                <span className="text-xs font-bold text-[#F16D2C] uppercase tracking-widest">Headquarters</span>
+                <h3 className="text-xl font-bold text-slate-900 font-heading mt-1">United States</h3>
               </div>
 
               <div className="space-y-4 text-xs sm:text-sm text-slate-600">
                 <div className="flex items-start gap-3">
-                  <MapPin className="w-5 h-5 text-blue-600 shrink-0 mt-0.5" />
+                  <MapPin className="w-5 h-5 text-[#F16D2C] shrink-0 mt-0.5" />
                   <div>
                     <strong className="block text-slate-900 font-semibold">Address</strong>
                     <span>101 Convention Center Dr Ste 900, Las Vegas, NV 89109</span>
@@ -78,7 +78,7 @@ export default function ContactPage() {
                 </div>
 
                 <div className="flex items-start gap-3">
-                  <Phone className="w-5 h-5 text-blue-600 shrink-0 mt-0.5" />
+                  <Phone className="w-5 h-5 text-[#F16D2C] shrink-0 mt-0.5" />
                   <div>
                     <strong className="block text-slate-900 font-semibold">WhatsApp Message</strong>
                     <span>+86 182 6783 3801</span>
@@ -86,19 +86,19 @@ export default function ContactPage() {
                 </div>
 
                 <div className="flex items-start gap-3">
-                  <Mail className="w-5 h-5 text-blue-600 shrink-0 mt-0.5" />
+                  <Mail className="w-5 h-5 text-[#F16D2C] shrink-0 mt-0.5" />
                   <div>
-                    <strong className="block text-slate-900 font-semibold">Support Email</strong>
-                    <a href="mailto:support@ruipro.com" className="text-blue-600 hover:underline">
+                    <strong className="block text-slate-900 font-semibold">Email</strong>
+                    <a href="mailto:support@ruipro.com" className="text-[#F16D2C] hover:underline">
                       support@ruipro.com
                     </a>
                   </div>
                 </div>
 
                 <div className="flex items-start gap-3">
-                  <Clock className="w-5 h-5 text-blue-600 shrink-0 mt-0.5" />
+                  <Clock className="w-5 h-5 text-[#F16D2C] shrink-0 mt-0.5" />
                   <div>
-                    <strong className="block text-slate-900 font-semibold">Operating Hours</strong>
+                    <strong className="block text-slate-900 font-semibold">Hours</strong>
                     <span>Monday - Friday: 9:00 AM - 6:00 PM PST</span>
                   </div>
                 </div>
@@ -107,17 +107,17 @@ export default function ContactPage() {
 
             <div className="bg-slate-900 text-white rounded-2xl p-6 border border-slate-800 space-y-3">
               <h4 className="text-sm font-bold font-heading text-slate-100 flex items-center gap-2">
-                <Globe className="w-4 h-4 text-blue-400" />
-                <span>Online E-Commerce Orders</span>
+                <Globe className="w-4 h-4 text-[#F16D2C]" />
+                <span>Online Purchases</span>
               </h4>
               <p className="text-xs text-slate-400 leading-relaxed">
-                To purchase individual cables with express worldwide delivery, please visit our dedicated store:
+                Official store retail orders fulfilled worldwide via ruipro.store and Amazon US:
               </p>
               <a
                 href="https://ruipro.store/collections/all"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 text-xs font-semibold text-blue-400 hover:text-blue-300 underline"
+                className="inline-flex items-center gap-2 text-xs font-semibold text-[#F16D2C] hover:underline"
               >
                 <span>Visit ruipro.store</span>
                 <ExternalLink className="w-3.5 h-3.5" />
@@ -136,12 +136,12 @@ export default function ContactPage() {
       <section id="distributors" className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="border-t border-slate-200 pt-16">
           <div className="text-center max-w-2xl mx-auto mb-12">
-            <span className="text-xs font-bold text-blue-600 uppercase tracking-widest">Global Partner Network</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 font-heading mt-1">
-              Authorized Regional Distributors
+            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 font-heading">
+              Global Distributors
             </h2>
-            <p className="text-xs sm:text-sm text-slate-500 mt-2">
-              For local stock, contractor wholesale rates, and regional warranty support, contact our partners.
+            <div className="w-16 h-0.5 bg-[#F16D2C] mx-auto mt-3 mb-4" />
+            <p className="text-xs sm:text-sm text-slate-500">
+              For local stock, contractor wholesale rates, and regional warranty support, contact our authorized partners.
             </p>
           </div>
 
@@ -152,7 +152,7 @@ export default function ContactPage() {
                 className="bg-white rounded-xl border border-slate-200 p-6 shadow-sm flex flex-col justify-between"
               >
                 <div>
-                  <span className="text-[11px] font-bold text-blue-600 uppercase tracking-wider block mb-1">
+                  <span className="text-[11px] font-bold text-[#F16D2C] uppercase tracking-wider block mb-1">
                     {dist.region}
                   </span>
                   <h3 className="font-bold text-base text-slate-900 font-heading mb-2">
@@ -166,7 +166,7 @@ export default function ContactPage() {
                   )}
                   {dist.email && (
                     <p className="text-xs text-slate-600 mb-1">
-                      <strong>Email:</strong> <a href={'mailto:' + dist.email} className="text-blue-600 hover:underline">{dist.email}</a>
+                      <strong>Email:</strong> <a href={'mailto:' + dist.email} className="text-[#F16D2C] hover:underline">{dist.email}</a>
                     </p>
                   )}
                   {dist.address && (

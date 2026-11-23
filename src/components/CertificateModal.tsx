@@ -17,13 +17,13 @@ export default function CertificateModal({ certificates }: CertificateModalProps
         {certificates.map((cert) => (
           <div
             key={cert.id}
-            className="bg-white border border-slate-200 rounded-xl p-5 shadow-sm hover:border-blue-400 hover:shadow-md transition-all flex flex-col justify-between"
+            className="bg-white border border-slate-200 rounded-xl p-5 shadow-sm hover:border-[#F16D2C] hover:shadow-md transition-all flex flex-col justify-between"
           >
             <div>
-              <div className="w-10 h-10 rounded-lg bg-blue-50 text-blue-600 flex items-center justify-center mb-3">
+              <div className="w-10 h-10 rounded-lg bg-orange-50 text-[#F16D2C] flex items-center justify-center mb-3">
                 <FileText className="w-5 h-5" />
               </div>
-              <span className="text-[11px] font-bold text-blue-600 uppercase tracking-wider">
+              <span className="text-[11px] font-bold text-[#F16D2C] uppercase tracking-wider">
                 {cert.category}
               </span>
               <h4 className="text-sm font-bold text-slate-900 mt-1 mb-2 font-heading">
@@ -39,7 +39,7 @@ export default function CertificateModal({ certificates }: CertificateModalProps
               <div className="flex items-center gap-2">
                 <button
                   onClick={() => setSelectedCert(cert)}
-                  className="text-blue-600 hover:text-blue-800 font-semibold underline"
+                  className="text-[#F16D2C] hover:text-[#d9571f] font-semibold underline"
                 >
                   Preview
                 </button>
@@ -69,11 +69,11 @@ export default function CertificateModal({ certificates }: CertificateModalProps
             </button>
 
             <div className="flex items-center gap-3 mb-4">
-              <div className="w-12 h-12 rounded-xl bg-blue-600/10 text-blue-600 flex items-center justify-center shrink-0">
+              <div className="w-12 h-12 rounded-xl bg-orange-50 text-[#F16D2C] flex items-center justify-center shrink-0">
                 <ShieldCheck className="w-6 h-6" />
               </div>
               <div>
-                <span className="text-xs font-bold text-blue-600 uppercase tracking-wider">
+                <span className="text-xs font-bold text-[#F16D2C] uppercase tracking-wider">
                   {selectedCert.category}
                 </span>
                 <h3 className="text-lg font-bold text-slate-900 font-heading">
@@ -101,7 +101,7 @@ export default function CertificateModal({ certificates }: CertificateModalProps
                 href={selectedCert.file}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-500 text-white px-5 py-2 rounded-lg text-xs font-semibold shadow-sm"
+                className="inline-flex items-center gap-2 bg-[#F16D2C] hover:bg-[#d9571f] text-white px-5 py-2 rounded-lg text-xs font-semibold shadow-sm"
               >
                 <span>Open Document</span>
                 <ExternalLink className="w-3.5 h-3.5" />

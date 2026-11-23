@@ -5,7 +5,7 @@ import { Play, ArrowRight, Calendar, Tag } from 'lucide-react';
 import { NEWS_ARTICLES } from '@/lib/data';
 
 export const metadata = {
-  title: 'News, Awards & Reviews | RUIPRO Official Newsroom',
+  title: 'News | RUIPRO Fiber Optic Connectivity',
   description: 'Read the latest company announcements, global distributor awards, HDMI Forum ATC certification milestones, and independent media video reviews.',
 };
 
@@ -33,10 +33,10 @@ export default function NewsPage({
       {/* 1. Header */}
       <section className="bg-slate-950 text-white py-16 border-b border-slate-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center max-w-3xl">
-          <span className="text-xs font-bold uppercase tracking-widest text-blue-400">Newsroom & Media Archive</span>
-          <h1 className="text-3xl sm:text-4xl font-bold font-heading mt-2 mb-4">
-            RUIPRO News, Awards & Reviews
+          <h1 className="text-3xl sm:text-4xl font-bold font-heading mb-4">
+            News
           </h1>
+          <div className="w-16 h-0.5 bg-[#F16D2C] mx-auto mb-4" />
           <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
             Preserving our history of optical achievements, distributor partnerships, laboratory certifications, and verified YouTube reviews dating from 2018 to today.
           </p>
@@ -55,7 +55,7 @@ export default function NewsPage({
                 href={href}
                 className={'px-4 py-2 rounded-lg text-xs font-semibold transition-all ' + (
                   isSelected
-                    ? 'bg-blue-600 text-white shadow-sm'
+                    ? 'bg-[#F16D2C] text-white shadow-sm'
                     : 'text-slate-700 hover:text-slate-900 hover:bg-slate-200/50'
                 )}
               >
@@ -109,7 +109,7 @@ export default function NewsPage({
                   <Calendar className="w-3.5 h-3.5" />
                   <span>{article.date}</span>
                 </div>
-                <h2 className="text-base font-bold text-slate-900 group-hover:text-blue-600 transition-colors line-clamp-2 mb-3 font-heading">
+                <h2 className="text-base font-bold text-slate-900 group-hover:text-[#F16D2C] transition-colors line-clamp-2 mb-3 font-heading">
                   <Link href={'/news/' + article.slug}>
                     {article.title}
                   </Link>
@@ -121,7 +121,7 @@ export default function NewsPage({
                 <div className="pt-4 border-t border-slate-100 mt-auto">
                   <Link
                     href={'/news/' + article.slug}
-                    className="inline-flex items-center gap-1.5 text-xs font-semibold text-blue-600 hover:text-blue-800 transition-colors"
+                    className="inline-flex items-center gap-1.5 text-xs font-semibold text-[#F16D2C] hover:text-[#d9571f] transition-colors"
                   >
                     <span>Read Full Story</span>
                     <ArrowRight className="w-3.5 h-3.5" />
