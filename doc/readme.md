@@ -34,6 +34,11 @@ All work on this project strictly follows the IMET structure:
   2. Nested middle page content inside a responsive container while keeping the Media Room Callout section flush against the Universal Footer with 0px white space.
   3. Removed custom distDir from next.config.js to allow standard zero-config Vercel build output to .next, resolving the 404 NOT_FOUND router error.
   4. Executed full static build verification across all 34 routes and committed/pushed clean updates to remote GitHub repository.
+- Version 1.3.0 (2026-11-23): QA Testing & Security Engineering Audit:
+  1. Formulated comprehensive test case sheet covering 30+ functional, visual, negative, edge, and integration scenarios across all user journeys.
+  2. Documented unit testing, integration testing, and Test-Driven Development (TDD) approaches.
+  3. Performed independent post-completion penetration testing and vulnerability assessment, identifying frontend, infrastructure, and WordPress migration attack vectors.
+  4. Generated doc/testing-and-security-audit.md.
 
 ---
 
@@ -47,6 +52,7 @@ All project documentation files reside inside the doc directory using dynamic re
 - doc/process.md: Engineering workflow, consolidated revision cycles, QA checklist, and approval gates.
 - doc/feature-structure.md: Comprehensive UI/UX architecture, user personas, screen layouts, CTA maps, and wireframe specs.
 - doc/modules.md: Component library specifications, interface props, and responsive design patterns.
+- doc/testing-and-security-audit.md: Comprehensive QA test sheets, TDD workflows, and security vulnerability breakdown.
 
 ---
 

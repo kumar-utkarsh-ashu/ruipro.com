@@ -19,6 +19,7 @@ All file references use relative dynamic file paths from the project root.
 | Process and Lifecycle | doc/process.md | Development milestones, revision protocols, QA testing procedures, and client approval |
 | Feature Structure | doc/feature-structure.md | UI/UX blueprint, personas, screen layouts, user journeys, CTA catalog, and gap analysis |
 | Modules and Components | doc/modules.md | Reusable UI components, header/footer contracts, card layouts, and responsive specifications |
+| QA Testing and Security Audit | doc/testing-and-security-audit.md | Comprehensive QA test sheets, TDD workflows, and OWASP security vulnerability assessment |
 
 ---
 
