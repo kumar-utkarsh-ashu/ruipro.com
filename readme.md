@@ -39,6 +39,12 @@ All work on this project strictly follows the IMET structure:
   2. Documented unit testing, integration testing, and Test-Driven Development (TDD) approaches.
   3. Performed independent post-completion penetration testing and vulnerability assessment, identifying frontend, infrastructure, and WordPress migration attack vectors.
   4. Generated doc/testing-and-security-audit.md.
+- Version 1.3.1 (2026-11-23): Systematic Remediation of Security and QA Vulnerabilities:
+  1. Configured comprehensive edge HTTP security headers (X-Frame-Options: DENY, X-Content-Type-Options: nosniff, Referrer-Policy, Strict-Transport-Security, Permissions-Policy) in next.config.js.
+  2. Disabled production browser source maps (productionBrowserSourceMaps: false) and powered-by headers.
+  3. Hardened all outbound external links across the entire catalog and navigation with explicit rel="noopener noreferrer" to eliminate reverse tabnabbing.
+  4. Implemented anti-spam honeypot field, RFC 5322 email regex verification, and 5,000-character payload limits in ContactForm.tsx to mitigate bot spam and memory exhaustion DoS.
+  5. Enforced strict iframe sandbox attributes (allow-scripts allow-same-origin allow-presentation) and strict-origin referrer policy on all embedded YouTube review players.
 
 ---
 

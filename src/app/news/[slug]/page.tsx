@@ -73,6 +73,9 @@ export default function NewsDetailPage({
             title={article.title}
             className="w-full h-full border-0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            sandbox="allow-scripts allow-same-origin allow-presentation"
+            referrerPolicy="strict-origin-when-cross-origin"
+            loading="lazy"
             allowFullScreen
           />
         ) : (

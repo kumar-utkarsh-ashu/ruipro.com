@@ -9,16 +9,50 @@ export default function ContactForm() {
     email: '',
     category: 'General Support',
     subject: '',
-    message: ''
+    message: '',
+    website_hp: '' // Honeypot field for anti-bot protection
   });
   const [status, setStatus] = useState<'idle' | 'submitting' | 'success' | 'error'>('idle');
   const [errorMessage, setErrorMessage] = useState('');
+  const [charCount, setCharCount] = useState(0);
+
+  const MAX_MESSAGE_LENGTH = 5000;
+  const MAX_INPUT_LENGTH = 150;
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    if (!formData.name || !formData.email || !formData.message) {
+
+    // 1. Honeypot check: Bots fill hidden inputs
+    if (formData.website_hp) {
+      // Silently drop bot submission
+      setStatus('success');
+      return;
+    }
+
+    // 2. Strict Input Trimming & Validation
+    const trimmedName = formData.name.trim();
+    const trimmedEmail = formData.email.trim();
+    const trimmedSubject = formData.subject.trim();
+    const trimmedMessage = formData.message.trim();
+
+    if (!trimmedName || !trimmedEmail || !trimmedMessage) {
       setStatus('error');
       setErrorMessage('Please fill in all required fields.');
+      return;
+    }
+
+    // 3. RFC 5322 Compliant Email Check
+    const emailRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)+$/;
+    if (!emailRegex.test(trimmedEmail)) {
+      setStatus('error');
+      setErrorMessage('Please provide a valid business email address.');
+      return;
+    }
+
+    // 4. Payload Size Limit to prevent memory exhaustion DoS
+    if (trimmedMessage.length > MAX_MESSAGE_LENGTH) {
+      setStatus('error');
+      setErrorMessage('Message exceeds the maximum permitted length of 5,000 characters.');
       return;
     }
 
@@ -30,8 +64,10 @@ export default function ContactForm() {
         email: '',
         category: 'General Support',
         subject: '',
-        message: ''
+        message: '',
+        website_hp: ''
       });
+      setCharCount(0);
     }, 800);
   };
 
@@ -68,12 +104,26 @@ export default function ContactForm() {
       )}
 
       <form onSubmit={handleSubmit} className="space-y-4">
+        {/* Anti-Bot Honeypot Field (Hidden from real users, filled by automated scrapers) */}
+        <div className="hidden" aria-hidden="true">
+          <label htmlFor="website_hp">Leave this field blank</label>
+          <input
+            id="website_hp"
+            type="text"
+            tabIndex={-1}
+            autoComplete="off"
+            value={formData.website_hp}
+            onChange={(e) => setFormData({ ...formData, website_hp: e.target.value })}
+          />
+        </div>
+
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div>
             <label className="block text-xs font-semibold text-slate-700 mb-1">Your Name *</label>
             <input
               type="text"
               required
+              maxLength={MAX_INPUT_LENGTH}
               value={formData.name}
               onChange={(e) => setFormData({ ...formData, name: e.target.value })}
               className="w-full px-3.5 py-2.5 rounded-lg border border-slate-300 text-sm focus:outline-none focus:ring-2 focus:ring-[#F16D2C] focus:border-transparent"
@@ -85,6 +135,7 @@ export default function ContactForm() {
             <input
               type="email"
               required
+              maxLength={MAX_INPUT_LENGTH}
               value={formData.email}
               onChange={(e) => setFormData({ ...formData, email: e.target.value })}
               className="w-full px-3.5 py-2.5 rounded-lg border border-slate-300 text-sm focus:outline-none focus:ring-2 focus:ring-[#F16D2C] focus:border-transparent"
@@ -113,6 +164,7 @@ export default function ContactForm() {
             <input
               type="text"
               required
+              maxLength={MAX_INPUT_LENGTH}
               value={formData.subject}
               onChange={(e) => setFormData({ ...formData, subject: e.target.value })}
               className="w-full px-3.5 py-2.5 rounded-lg border border-slate-300 text-sm focus:outline-none focus:ring-2 focus:ring-[#F16D2C] focus:border-transparent"
@@ -122,14 +174,23 @@ export default function ContactForm() {
         </div>
 
         <div>
-          <label className="block text-xs font-semibold text-slate-700 mb-1">Your Message (optional)</label>
+          <div className="flex items-center justify-between mb-1">
+            <label className="block text-xs font-semibold text-slate-700">Your Message *</label>
+            <span className="text-[11px] text-slate-400">
+              {charCount} / {MAX_MESSAGE_LENGTH} characters
+            </span>
+          </div>
           <textarea
             required
             rows={5}
+            maxLength={MAX_MESSAGE_LENGTH}
             value={formData.message}
-            onChange={(e) => setFormData({ ...formData, message: e.target.value })}
+            onChange={(e) => {
+              setFormData({ ...formData, message: e.target.value });
+              setCharCount(e.target.value.length);
+            }}
             className="w-full px-3.5 py-2.5 rounded-lg border border-slate-300 text-sm focus:outline-none focus:ring-2 focus:ring-[#F16D2C] focus:border-transparent resize-y"
-            placeholder="Your message"
+            placeholder="Please detail your inquiry, specifications, or distribution requirements..."
           />
         </div>
 
