@@ -1,0 +1,1279 @@
+{
+  "id": 8996199563500,
+  "title": "RUIPRO 8K Detachable Full Fiber Optic Armored DisplayPort 1.4 Cable Supports 8K@60Hz 4K@144Hz, high Dynamic Range Video, HDR, HDCP 2.2, FreeSync & G-Sync, Compatible with RTX 4090/3090 Ti/RX 7900 XTX",
+  "handle": "8k-detachable-full-fiber-optic-armored-displayport-cable",
+  "description": "<p><b><span><strong>Model Number: SNPFD14GEN4AK</strong></span></b></p>\n<p class=\"p\"><b><span>Key Features:</span></b><span>\u00a0</span><span></span></p>\n<ul>\n<li class=\"MsoNormal\"><span>Compatible with DisplayPort 1.4 standard and backwards compatible with DisplayPort 1.2.</span></li>\n<li class=\"MsoNormal\">Up to 300m long run for date rate 32.4Gbps(8.1Gbps/ Channelx4Channel).</li>\n<li class=\"MsoNormal\">Supports 4K/ 8K compressed and uncompressed mode.</li>\n<li class=\"MsoNormal\">Supports SDR, HDR, Dynamic HDR (HDR10+ and DV).</li>\n<li class=\"MsoNormal\">Supports resolution up to 8K@60Hz, 4K@144Hz and supports HDCP1.4/2.3.</li>\n<li class=\"MsoNormal\">Supports computer resolutions to 5K/100-120p 4:4:4 10Bit and 10K/24-30p 4:4:4 10Bit</li>\n<li class=\"MsoNormal\">Bi-directional fiber cable with 7 optic wires ( 50/125um OM3)</li>\n<li class=\"MsoNormal\">Plug and Play, no loss of signal, <span>Anti-EMI</span>.<span></span>\n</li>\n<li class=\"MsoNormal\">\n<span>CE, ROHS, REACH certified.</span><span></span>\n</li>\n</ul>\n<p class=\"p\">\u00a0</p>\n<p class=\"p\"><b><span>Specifications:</span></b></p>\n<ul>\n<li class=\"MsoNormal\">RUIPRO MPO cable : 7 core Type A</li>\n<li>Limit bending radius: D30mm, 10 circles can work</li>\n<li>Power Consumption: 600mW-800mW (max)</li>\n<li>Power Supply: Normally, both ends (TX/RX) do not require an external power supply. If the blue indicator light is off, an external 5V USB power supply is needed. Please make sure to power it on before plugging the cable into your device to avoid any adverse effects from power switching.</li>\n</ul>",
+  "published_at": "2025-08-28T16:12:12+08:00",
+  "created_at": "2025-08-28T15:59:08+08:00",
+  "vendor": "RUIPRO",
+  "type": "DisplayPort 1.4 & 2.1 Cables",
+  "tags": [
+    "RUIPRO"
+  ],
+  "price": 13499,
+  "price_min": 13499,
+  "price_max": 1213799,
+  "available": true,
+  "price_varies": true,
+  "compare_at_price": 13449,
+  "compare_at_price_min": 13449,
+  "compare_at_price_max": 28599,
+  "compare_at_price_varies": true,
+  "variants": [
+    {
+      "id": 47010535407852,
+      "title": "1m (3ft)",
+      "option1": "1m (3ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPFD14GEN4AK_1M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44645638799596,
+        "product_id": 8996199563500,
+        "position": 1,
+        "created_at": "2025-08-28T15:42:49+08:00",
+        "updated_at": "2026-01-21T15:49:10+08:00",
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+        "variant_ids": [
+          46768168829164,
+          46768168861932,
+          46768168894700,
+          46768168927468,
+          46768168960236,
+          46837192589548,
+          46837192622316,
+          46837192655084,
+          46883714040044,
+          46883714072812,
+          46883714105580,
+          47010535407852,
+          47010535440620,
+          47010535473388,
+          47010535506156,
+          47010535538924
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Detachable Full Fiber Optic Armored DisplayPort 1.4 Cable Supports 8K@60Hz 4K@144Hz, high Dynamic Range Video, HDR, HDCP 2.2, FreeSync & G-Sync, Compatible with RTX 4090/3090 Ti/RX 7900 XTX - 1m (3ft)",
+      "public_title": "1m (3ft)",
+      "options": [
+        "1m (3ft)"
+      ],
+      "price": 13499,
+      "weight": 190,
+      "compare_at_price": 13449,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "id": 35845905776876,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 46837192589548,
+      "title": "2m (6ft)",
+      "option1": "2m (6ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPFD14GEN4AK_2M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44645638799596,
+        "product_id": 8996199563500,
+        "position": 1,
+        "created_at": "2025-08-28T15:42:49+08:00",
+        "updated_at": "2026-01-21T15:49:10+08:00",
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+        "variant_ids": [
+          46768168829164,
+          46768168861932,
+          46768168894700,
+          46768168927468,
+          46768168960236,
+          46837192589548,
+          46837192622316,
+          46837192655084,
+          46883714040044,
+          46883714072812,
+          46883714105580,
+          47010535407852,
+          47010535440620,
+          47010535473388,
+          47010535506156,
+          47010535538924
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Detachable Full Fiber Optic Armored DisplayPort 1.4 Cable Supports 8K@60Hz 4K@144Hz, high Dynamic Range Video, HDR, HDCP 2.2, FreeSync & G-Sync, Compatible with RTX 4090/3090 Ti/RX 7900 XTX - 2m (6ft)",
+      "public_title": "2m (6ft)",
+      "options": [
+        "2m (6ft)"
+      ],
+      "price": 1213799,
+      "weight": 200,
+      "compare_at_price": 13749,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "id": 35845905776876,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 46837192622316,
+      "title": "3m (10ft)",
+      "option1": "3m (10ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPFD14GEN4AK_3M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44645638799596,
+        "product_id": 8996199563500,
+        "position": 1,
+        "created_at": "2025-08-28T15:42:49+08:00",
+        "updated_at": "2026-01-21T15:49:10+08:00",
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+        "variant_ids": [
+          46768168829164,
+          46768168861932,
+          46768168894700,
+          46768168927468,
+          46768168960236,
+          46837192589548,
+          46837192622316,
+          46837192655084,
+          46883714040044,
+          46883714072812,
+          46883714105580,
+          47010535407852,
+          47010535440620,
+          47010535473388,
+          47010535506156,
+          47010535538924
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Detachable Full Fiber Optic Armored DisplayPort 1.4 Cable Supports 8K@60Hz 4K@144Hz, high Dynamic Range Video, HDR, HDCP 2.2, FreeSync & G-Sync, Compatible with RTX 4090/3090 Ti/RX 7900 XTX - 3m (10ft)",
+      "public_title": "3m (10ft)",
+      "options": [
+        "3m (10ft)"
+      ],
+      "price": 13999,
+      "weight": 210,
+      "compare_at_price": 13949,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "id": 35845905776876,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 46768168829164,
+      "title": "5m (15ft)",
+      "option1": "5m (15ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPFD14GEN4AK_5M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44645638799596,
+        "product_id": 8996199563500,
+        "position": 1,
+        "created_at": "2025-08-28T15:42:49+08:00",
+        "updated_at": "2026-01-21T15:49:10+08:00",
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+        "variant_ids": [
+          46768168829164,
+          46768168861932,
+          46768168894700,
+          46768168927468,
+          46768168960236,
+          46837192589548,
+          46837192622316,
+          46837192655084,
+          46883714040044,
+          46883714072812,
+          46883714105580,
+          47010535407852,
+          47010535440620,
+          47010535473388,
+          47010535506156,
+          47010535538924
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Detachable Full Fiber Optic Armored DisplayPort 1.4 Cable Supports 8K@60Hz 4K@144Hz, high Dynamic Range Video, HDR, HDCP 2.2, FreeSync & G-Sync, Compatible with RTX 4090/3090 Ti/RX 7900 XTX - 5m (15ft)",
+      "public_title": "5m (15ft)",
+      "options": [
+        "5m (15ft)"
+      ],
+      "price": 14199,
+      "weight": 220,
+      "compare_at_price": 14199,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "id": 35845905776876,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 47010535440620,
+      "title": "6m (20ft)",
+      "option1": "6m (20ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPFD14GEN4AK_6M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44645638799596,
+        "product_id": 8996199563500,
+        "position": 1,
+        "created_at": "2025-08-28T15:42:49+08:00",
+        "updated_at": "2026-01-21T15:49:10+08:00",
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+        "variant_ids": [
+          46768168829164,
+          46768168861932,
+          46768168894700,
+          46768168927468,
+          46768168960236,
+          46837192589548,
+          46837192622316,
+          46837192655084,
+          46883714040044,
+          46883714072812,
+          46883714105580,
+          47010535407852,
+          47010535440620,
+          47010535473388,
+          47010535506156,
+          47010535538924
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Detachable Full Fiber Optic Armored DisplayPort 1.4 Cable Supports 8K@60Hz 4K@144Hz, high Dynamic Range Video, HDR, HDCP 2.2, FreeSync & G-Sync, Compatible with RTX 4090/3090 Ti/RX 7900 XTX - 6m (20ft)",
+      "public_title": "6m (20ft)",
+      "options": [
+        "6m (20ft)"
+      ],
+      "price": 14299,
+      "weight": 230,
+      "compare_at_price": 14299,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "id": 35845905776876,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 46883714040044,
+      "title": "7.6m (25ft)",
+      "option1": "7.6m (25ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPFD14GEN4AK_7.6M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44645638799596,
+        "product_id": 8996199563500,
+        "position": 1,
+        "created_at": "2025-08-28T15:42:49+08:00",
+        "updated_at": "2026-01-21T15:49:10+08:00",
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+        "variant_ids": [
+          46768168829164,
+          46768168861932,
+          46768168894700,
+          46768168927468,
+          46768168960236,
+          46837192589548,
+          46837192622316,
+          46837192655084,
+          46883714040044,
+          46883714072812,
+          46883714105580,
+          47010535407852,
+          47010535440620,
+          47010535473388,
+          47010535506156,
+          47010535538924
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Detachable Full Fiber Optic Armored DisplayPort 1.4 Cable Supports 8K@60Hz 4K@144Hz, high Dynamic Range Video, HDR, HDCP 2.2, FreeSync & G-Sync, Compatible with RTX 4090/3090 Ti/RX 7900 XTX - 7.6m (25ft)",
+      "public_title": "7.6m (25ft)",
+      "options": [
+        "7.6m (25ft)"
+      ],
+      "price": 14399,
+      "weight": 250,
+      "compare_at_price": 14399,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "id": 35845905776876,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 46768168861932,
+      "title": "10m (33ft)",
+      "option1": "10m (33ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPFD14GEN4AK_10M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44645638799596,
+        "product_id": 8996199563500,
+        "position": 1,
+        "created_at": "2025-08-28T15:42:49+08:00",
+        "updated_at": "2026-01-21T15:49:10+08:00",
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+        "variant_ids": [
+          46768168829164,
+          46768168861932,
+          46768168894700,
+          46768168927468,
+          46768168960236,
+          46837192589548,
+          46837192622316,
+          46837192655084,
+          46883714040044,
+          46883714072812,
+          46883714105580,
+          47010535407852,
+          47010535440620,
+          47010535473388,
+          47010535506156,
+          47010535538924
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Detachable Full Fiber Optic Armored DisplayPort 1.4 Cable Supports 8K@60Hz 4K@144Hz, high Dynamic Range Video, HDR, HDCP 2.2, FreeSync & G-Sync, Compatible with RTX 4090/3090 Ti/RX 7900 XTX - 10m (33ft)",
+      "public_title": "10m (33ft)",
+      "options": [
+        "10m (33ft)"
+      ],
+      "price": 14599,
+      "weight": 270,
+      "compare_at_price": 14599,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "id": 35845905776876,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 47010535473388,
+      "title": "12m (40ft)",
+      "option1": "12m (40ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPFD14GEN4AK_12M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44645638799596,
+        "product_id": 8996199563500,
+        "position": 1,
+        "created_at": "2025-08-28T15:42:49+08:00",
+        "updated_at": "2026-01-21T15:49:10+08:00",
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+        "variant_ids": [
+          46768168829164,
+          46768168861932,
+          46768168894700,
+          46768168927468,
+          46768168960236,
+          46837192589548,
+          46837192622316,
+          46837192655084,
+          46883714040044,
+          46883714072812,
+          46883714105580,
+          47010535407852,
+          47010535440620,
+          47010535473388,
+          47010535506156,
+          47010535538924
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Detachable Full Fiber Optic Armored DisplayPort 1.4 Cable Supports 8K@60Hz 4K@144Hz, high Dynamic Range Video, HDR, HDCP 2.2, FreeSync & G-Sync, Compatible with RTX 4090/3090 Ti/RX 7900 XTX - 12m (40ft)",
+      "public_title": "12m (40ft)",
+      "options": [
+        "12m (40ft)"
+      ],
+      "price": 14799,
+      "weight": 280,
+      "compare_at_price": 14799,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "id": 35845905776876,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 46768168894700,
+      "title": "15m (50ft)",
+      "option1": "15m (50ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPFD14GEN4AK_15M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44645638799596,
+        "product_id": 8996199563500,
+        "position": 1,
+        "created_at": "2025-08-28T15:42:49+08:00",
+        "updated_at": "2026-01-21T15:49:10+08:00",
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+        "variant_ids": [
+          46768168829164,
+          46768168861932,
+          46768168894700,
+          46768168927468,
+          46768168960236,
+          46837192589548,
+          46837192622316,
+          46837192655084,
+          46883714040044,
+          46883714072812,
+          46883714105580,
+          47010535407852,
+          47010535440620,
+          47010535473388,
+          47010535506156,
+          47010535538924
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Detachable Full Fiber Optic Armored DisplayPort 1.4 Cable Supports 8K@60Hz 4K@144Hz, high Dynamic Range Video, HDR, HDCP 2.2, FreeSync & G-Sync, Compatible with RTX 4090/3090 Ti/RX 7900 XTX - 15m (50ft)",
+      "public_title": "15m (50ft)",
+      "options": [
+        "15m (50ft)"
+      ],
+      "price": 15099,
+      "weight": 300,
+      "compare_at_price": 15099,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "id": 35845905776876,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 46768168927468,
+      "title": "20m (65ft)",
+      "option1": "20m (65ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPFD14GEN4AK_20M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44645638799596,
+        "product_id": 8996199563500,
+        "position": 1,
+        "created_at": "2025-08-28T15:42:49+08:00",
+        "updated_at": "2026-01-21T15:49:10+08:00",
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+        "variant_ids": [
+          46768168829164,
+          46768168861932,
+          46768168894700,
+          46768168927468,
+          46768168960236,
+          46837192589548,
+          46837192622316,
+          46837192655084,
+          46883714040044,
+          46883714072812,
+          46883714105580,
+          47010535407852,
+          47010535440620,
+          47010535473388,
+          47010535506156,
+          47010535538924
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Detachable Full Fiber Optic Armored DisplayPort 1.4 Cable Supports 8K@60Hz 4K@144Hz, high Dynamic Range Video, HDR, HDCP 2.2, FreeSync & G-Sync, Compatible with RTX 4090/3090 Ti/RX 7900 XTX - 20m (65ft)",
+      "public_title": "20m (65ft)",
+      "options": [
+        "20m (65ft)"
+      ],
+      "price": 15799,
+      "weight": 340,
+      "compare_at_price": 15749,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "id": 35845905776876,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 47010535506156,
+      "title": "25m (85ft)",
+      "option1": "25m (85ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPFD14GEN4AK_25M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44645638799596,
+        "product_id": 8996199563500,
+        "position": 1,
+        "created_at": "2025-08-28T15:42:49+08:00",
+        "updated_at": "2026-01-21T15:49:10+08:00",
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+        "variant_ids": [
+          46768168829164,
+          46768168861932,
+          46768168894700,
+          46768168927468,
+          46768168960236,
+          46837192589548,
+          46837192622316,
+          46837192655084,
+          46883714040044,
+          46883714072812,
+          46883714105580,
+          47010535407852,
+          47010535440620,
+          47010535473388,
+          47010535506156,
+          47010535538924
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Detachable Full Fiber Optic Armored DisplayPort 1.4 Cable Supports 8K@60Hz 4K@144Hz, high Dynamic Range Video, HDR, HDCP 2.2, FreeSync & G-Sync, Compatible with RTX 4090/3090 Ti/RX 7900 XTX - 25m (85ft)",
+      "public_title": "25m (85ft)",
+      "options": [
+        "25m (85ft)"
+      ],
+      "price": 16399,
+      "weight": 390,
+      "compare_at_price": 16399,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "id": 35845905776876,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 46768168960236,
+      "title": "30m (100ft)",
+      "option1": "30m (100ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPFD14GEN4AK_30M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44645638799596,
+        "product_id": 8996199563500,
+        "position": 1,
+        "created_at": "2025-08-28T15:42:49+08:00",
+        "updated_at": "2026-01-21T15:49:10+08:00",
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+        "variant_ids": [
+          46768168829164,
+          46768168861932,
+          46768168894700,
+          46768168927468,
+          46768168960236,
+          46837192589548,
+          46837192622316,
+          46837192655084,
+          46883714040044,
+          46883714072812,
+          46883714105580,
+          47010535407852,
+          47010535440620,
+          47010535473388,
+          47010535506156,
+          47010535538924
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Detachable Full Fiber Optic Armored DisplayPort 1.4 Cable Supports 8K@60Hz 4K@144Hz, high Dynamic Range Video, HDR, HDCP 2.2, FreeSync & G-Sync, Compatible with RTX 4090/3090 Ti/RX 7900 XTX - 30m (100ft)",
+      "public_title": "30m (100ft)",
+      "options": [
+        "30m (100ft)"
+      ],
+      "price": 17099,
+      "weight": 430,
+      "compare_at_price": 17049,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "id": 35845905776876,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 47010535538924,
+      "title": "40m (130ft)",
+      "option1": "40m (130ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPFD14GEN4AK_40M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44645638799596,
+        "product_id": 8996199563500,
+        "position": 1,
+        "created_at": "2025-08-28T15:42:49+08:00",
+        "updated_at": "2026-01-21T15:49:10+08:00",
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+        "variant_ids": [
+          46768168829164,
+          46768168861932,
+          46768168894700,
+          46768168927468,
+          46768168960236,
+          46837192589548,
+          46837192622316,
+          46837192655084,
+          46883714040044,
+          46883714072812,
+          46883714105580,
+          47010535407852,
+          47010535440620,
+          47010535473388,
+          47010535506156,
+          47010535538924
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Detachable Full Fiber Optic Armored DisplayPort 1.4 Cable Supports 8K@60Hz 4K@144Hz, high Dynamic Range Video, HDR, HDCP 2.2, FreeSync & G-Sync, Compatible with RTX 4090/3090 Ti/RX 7900 XTX - 40m (130ft)",
+      "public_title": "40m (130ft)",
+      "options": [
+        "40m (130ft)"
+      ],
+      "price": 19599,
+      "weight": 500,
+      "compare_at_price": 19579,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "id": 35845905776876,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 46837192655084,
+      "title": "50m (165ft)",
+      "option1": "50m (165ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPFD14GEN4AK_50M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44645638799596,
+        "product_id": 8996199563500,
+        "position": 1,
+        "created_at": "2025-08-28T15:42:49+08:00",
+        "updated_at": "2026-01-21T15:49:10+08:00",
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+        "variant_ids": [
+          46768168829164,
+          46768168861932,
+          46768168894700,
+          46768168927468,
+          46768168960236,
+          46837192589548,
+          46837192622316,
+          46837192655084,
+          46883714040044,
+          46883714072812,
+          46883714105580,
+          47010535407852,
+          47010535440620,
+          47010535473388,
+          47010535506156,
+          47010535538924
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Detachable Full Fiber Optic Armored DisplayPort 1.4 Cable Supports 8K@60Hz 4K@144Hz, high Dynamic Range Video, HDR, HDCP 2.2, FreeSync & G-Sync, Compatible with RTX 4090/3090 Ti/RX 7900 XTX - 50m (165ft)",
+      "public_title": "50m (165ft)",
+      "options": [
+        "50m (165ft)"
+      ],
+      "price": 22499,
+      "weight": 580,
+      "compare_at_price": 22499,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "id": 35845905776876,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 46883714072812,
+      "title": "70m (230ft)",
+      "option1": "70m (230ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPFD14GEN4AK_70M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44645638799596,
+        "product_id": 8996199563500,
+        "position": 1,
+        "created_at": "2025-08-28T15:42:49+08:00",
+        "updated_at": "2026-01-21T15:49:10+08:00",
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+        "variant_ids": [
+          46768168829164,
+          46768168861932,
+          46768168894700,
+          46768168927468,
+          46768168960236,
+          46837192589548,
+          46837192622316,
+          46837192655084,
+          46883714040044,
+          46883714072812,
+          46883714105580,
+          47010535407852,
+          47010535440620,
+          47010535473388,
+          47010535506156,
+          47010535538924
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Detachable Full Fiber Optic Armored DisplayPort 1.4 Cable Supports 8K@60Hz 4K@144Hz, high Dynamic Range Video, HDR, HDCP 2.2, FreeSync & G-Sync, Compatible with RTX 4090/3090 Ti/RX 7900 XTX - 70m (230ft)",
+      "public_title": "70m (230ft)",
+      "options": [
+        "70m (230ft)"
+      ],
+      "price": 24999,
+      "weight": 710,
+      "compare_at_price": 24999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "id": 35845905776876,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 46883714105580,
+      "title": "100m (330ft)",
+      "option1": "100m (330ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPFD14GEN4AK_100M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44645638799596,
+        "product_id": 8996199563500,
+        "position": 1,
+        "created_at": "2025-08-28T15:42:49+08:00",
+        "updated_at": "2026-01-21T15:49:10+08:00",
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+        "variant_ids": [
+          46768168829164,
+          46768168861932,
+          46768168894700,
+          46768168927468,
+          46768168960236,
+          46837192589548,
+          46837192622316,
+          46837192655084,
+          46883714040044,
+          46883714072812,
+          46883714105580,
+          47010535407852,
+          47010535440620,
+          47010535473388,
+          47010535506156,
+          47010535538924
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Detachable Full Fiber Optic Armored DisplayPort 1.4 Cable Supports 8K@60Hz 4K@144Hz, high Dynamic Range Video, HDR, HDCP 2.2, FreeSync & G-Sync, Compatible with RTX 4090/3090 Ti/RX 7900 XTX - 100m (330ft)",
+      "public_title": "100m (330ft)",
+      "options": [
+        "100m (330ft)"
+      ],
+      "price": 28599,
+      "weight": 930,
+      "compare_at_price": 28599,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+        "id": 35845905776876,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-full-fiber-optic-displayport-cable-supports-hdr-gsync-freesync.png?v=1768981723",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-detachable-displayport-cable-dimensions-size-guide.jpg?v=1768981723",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-detachable-displayport-heads-easy-installation.jpg?v=1768981723",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-full-fiber-optic-displayport-cable-anti-interference.jpg?v=1768981723",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-displayport-cable-universal-compatibility-gpu-monitor.jpg?v=1768981723",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-displayport-cable-multi-monitor-setup.jpg?v=1768981723"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+  "options": [
+    {
+      "name": "Cable Length",
+      "position": 1,
+      "values": [
+        "1m (3ft)",
+        "2m (6ft)",
+        "3m (10ft)",
+        "5m (15ft)",
+        "6m (20ft)",
+        "7.6m (25ft)",
+        "10m (33ft)",
+        "12m (40ft)",
+        "15m (50ft)",
+        "20m (65ft)",
+        "25m (85ft)",
+        "30m (100ft)",
+        "40m (130ft)",
+        "50m (165ft)",
+        "70m (230ft)",
+        "100m (330ft)"
+      ]
+    }
+  ],
+  "url": "/products/8k-detachable-full-fiber-optic-armored-displayport-cable",
+  "media": [
+    {
+      "alt": "RUIPRO 8K detachable full fiber optic DisplayPort 1.4 cable, armored design with 32.4Gbps bandwidth for high-resolution monitors and gaming setups",
+      "id": 35845905776876,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-detachable-full-fiber-optic-displayport-cable.jpg?v=1768981750",
+      "width": 1500
+    },
+    {
+      "alt": "RUIPRO 8K full fiber optic DisplayPort detachable cable supporting HDR, G-Sync, FreeSync and 32.4Gbps bandwidth",
+      "id": 36286253924588,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 720,
+        "width": 720,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-full-fiber-optic-displayport-cable-supports-hdr-gsync-freesync.png?v=1768981723"
+      },
+      "aspect_ratio": 1.0,
+      "height": 720,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-full-fiber-optic-displayport-cable-supports-hdr-gsync-freesync.png?v=1768981723",
+      "width": 720
+    },
+    {
+      "alt": "DisplayPort cable dimensions and connector size reference for routing through cabinets, wall setups, or desktop cable management.",
+      "id": 35845922095340,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-detachable-displayport-cable-dimensions-size-guide.jpg?v=1768981723"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-detachable-displayport-cable-dimensions-size-guide.jpg?v=1768981723",
+      "width": 1500
+    },
+    {
+      "alt": "Detachable DisplayPort connector design for easy installation through conduits and tight spaces, future-proofed for DisplayPort 1.4 systems.",
+      "id": 35845905842412,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-detachable-displayport-heads-easy-installation.jpg?v=1768981723"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-detachable-displayport-heads-easy-installation.jpg?v=1768981723",
+      "width": 1500
+    },
+    {
+      "alt": "Full fiber optic DisplayPort cable providing ultra-clear, low latency, interference-free signal transmission suitable for high-end displays and gaming systems",
+      "id": 35845905875180,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-full-fiber-optic-displayport-cable-anti-interference.jpg?v=1768981723"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-full-fiber-optic-displayport-cable-anti-interference.jpg?v=1768981723",
+      "width": 1500
+    },
+    {
+      "alt": "niversal compatibility DisplayPort cable for graphics cards, laptops, monitors, mini PCs, and projectors, ideal for gaming and professional multi-screen setups",
+      "id": 35845905907948,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-displayport-cable-universal-compatibility-gpu-monitor.jpg?v=1768981723"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-displayport-cable-universal-compatibility-gpu-monitor.jpg?v=1768981723",
+      "width": 1500
+    },
+    {
+      "alt": "DisplayPort cable supporting multi-monitor setups including extend mode, mirror mode, and splicing mode for productivity and content creation workflows.",
+      "id": 35845905940716,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 3000,
+        "width": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-displayport-cable-multi-monitor-setup.jpg?v=1768981723"
+      },
+      "aspect_ratio": 1.0,
+      "height": 3000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-displayport-cable-multi-monitor-setup.jpg?v=1768981723",
+      "width": 3000
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

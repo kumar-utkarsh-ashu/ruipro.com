@@ -1,0 +1,13 @@
+RUIPRO is a brand owned by SUNIIN TECHNOLOGY CO., LIMITED, so the documents are issued under the SUNIIN company name.
+
+The files include:
+
+• SUNIIN-HDMI-Adopter-2026-2027 — SUNIIN’s HDMI licensing certificate, valid through July 30, 2027.
+
+• HDMI-Forum-ATC files — Test confirmations for the specified SNAOC21V101A HDMI cable models in 7.6m, 10m and 15m lengths.
+
+• CE-EMC and RoHS files — Compliance documents covering the models listed in each document.
+
+• POPs-SCCP file — A chemical test report provided as supplementary reference.
+
+Please suggest how selected documents could be presented on the website for our review. Product-specific documents should remain associated with the relevant models.

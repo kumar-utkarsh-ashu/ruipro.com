@@ -1,0 +1,1383 @@
+{
+  "id": 9393161961708,
+  "title": "RUIPRO 8K Armored Full Fiber Optic HDMI 2.1 Cable, 48Gbps, 8K@60Hz / 4K@120Hz",
+  "handle": "ruipro-8k-armored-full-fiber-optic-hdmi-2-1-cable",
+  "description": "<p class=\"p\"><b><span>Key Features:</span></b><span>\u00a0</span><span></span></p>\n<ul>\n<li>Supports up to 48Gbps bandwidth (12Gbps per channel \u00d7 4 channels), with resolutions up to 8K@60Hz and 4K@120Hz for home theater, gaming and professional AV applications.<span class=\"PDq2pG_selectionAnchor\"></span>\n</li>\n<li>7-core OM3 full fiber optic construction (50/125 \u03bcm) provides stable long-distance audio and video transmission and is immune to electromagnetic interference (EMI).</li>\n<li>Durable armored construction provides enhanced tensile strength and compression resistance while maintaining flexibility for long-distance installations.</li>\n<li>Supports SDR, HDR, Dynamic HDR, HDR10+, Dolby Vision, ARC, eARC, VRR, ALLM, QFT, QMS and CEC.</li>\n<li>Supports 4:4:4 chroma and 10/12-bit color depth for detailed, high-quality video.</li>\n<li>Supports HDCP 1.4/2.2/2.3 and is compatible with PS5, Xbox Series X/S, PCs, Apple TV, Blu-ray players, TVs, projectors and AV receivers.</li>\n<li>Plug and play with no external drivers required.</li>\n<li>CE, RoHS and REACH certified.<br>\n</li>\n</ul>\n<p>\u00a0</p>\n<p class=\"p\"><b><span>Specifications:</span></b></p>\n<ul>\n<li>Limit bending radius: D30mm, 10 circles can work</li>\n<li>Power\u00a0Consumption: 280mW-600mW(max)</li>\n<li>Power Supply: 5V USB (USB power supply on the TX/source end is usually not needed, but the display end must be powered. Without power, the cable won't\u00a0 function.)</li>\n</ul>",
+  "published_at": "2026-08-25T22:20:28+08:00",
+  "created_at": "2026-08-25T22:20:25+08:00",
+  "vendor": "RUIPRO",
+  "type": "HDMI 2.1 Fiber Optic Cables",
+  "tags": [
+    "RUIPRO"
+  ],
+  "price": 4899,
+  "price_min": 4899,
+  "price_max": 22099,
+  "available": true,
+  "price_varies": true,
+  "compare_at_price": 20099,
+  "compare_at_price_min": 20099,
+  "compare_at_price_max": 22099,
+  "compare_at_price_varies": true,
+  "variants": [
+    {
+      "id": 48231601701100,
+      "title": "1m (3ft)",
+      "option1": "1m (3ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPF21GEN4BK_1M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 47230810718444,
+        "product_id": 9393161961708,
+        "position": 1,
+        "created_at": "2026-08-25T21:56:04+08:00",
+        "updated_at": "2026-08-25T21:56:07+08:00",
+        "alt": null,
+        "width": 4000,
+        "height": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+        "variant_ids": [
+          48231601701100,
+          48231601733868,
+          48231601766636,
+          48231601799404,
+          48231601832172,
+          48231601864940,
+          48231601897708,
+          48231601930476,
+          48231601963244,
+          48231601996012,
+          48231602028780,
+          48231602061548,
+          48231602094316,
+          48231602127084,
+          48231602159852,
+          68198346293484,
+          68198346326252
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Armored Full Fiber Optic HDMI 2.1 Cable, 48Gbps, 8K@60Hz / 4K@120Hz - 1m (3ft)",
+      "public_title": "1m (3ft)",
+      "options": [
+        "1m (3ft)"
+      ],
+      "price": 4899,
+      "weight": 190,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37928025063660,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 4000,
+          "width": 4000,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 48231601733868,
+      "title": "2m (6ft)",
+      "option1": "2m (6ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPF21GEN4BK_2M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 47230810718444,
+        "product_id": 9393161961708,
+        "position": 1,
+        "created_at": "2026-08-25T21:56:04+08:00",
+        "updated_at": "2026-08-25T21:56:07+08:00",
+        "alt": null,
+        "width": 4000,
+        "height": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+        "variant_ids": [
+          48231601701100,
+          48231601733868,
+          48231601766636,
+          48231601799404,
+          48231601832172,
+          48231601864940,
+          48231601897708,
+          48231601930476,
+          48231601963244,
+          48231601996012,
+          48231602028780,
+          48231602061548,
+          48231602094316,
+          48231602127084,
+          48231602159852,
+          68198346293484,
+          68198346326252
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Armored Full Fiber Optic HDMI 2.1 Cable, 48Gbps, 8K@60Hz / 4K@120Hz - 2m (6ft)",
+      "public_title": "2m (6ft)",
+      "options": [
+        "2m (6ft)"
+      ],
+      "price": 4999,
+      "weight": 200,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37928025063660,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 4000,
+          "width": 4000,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 48231601766636,
+      "title": "3m (10ft)",
+      "option1": "3m (10ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPF21GEN4BK_3M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 47230810718444,
+        "product_id": 9393161961708,
+        "position": 1,
+        "created_at": "2026-08-25T21:56:04+08:00",
+        "updated_at": "2026-08-25T21:56:07+08:00",
+        "alt": null,
+        "width": 4000,
+        "height": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+        "variant_ids": [
+          48231601701100,
+          48231601733868,
+          48231601766636,
+          48231601799404,
+          48231601832172,
+          48231601864940,
+          48231601897708,
+          48231601930476,
+          48231601963244,
+          48231601996012,
+          48231602028780,
+          48231602061548,
+          48231602094316,
+          48231602127084,
+          48231602159852,
+          68198346293484,
+          68198346326252
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Armored Full Fiber Optic HDMI 2.1 Cable, 48Gbps, 8K@60Hz / 4K@120Hz - 3m (10ft)",
+      "public_title": "3m (10ft)",
+      "options": [
+        "3m (10ft)"
+      ],
+      "price": 5099,
+      "weight": 210,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37928025063660,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 4000,
+          "width": 4000,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 48231601799404,
+      "title": "5m (15ft)",
+      "option1": "5m (15ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPF21GEN4BK_5M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 47230810718444,
+        "product_id": 9393161961708,
+        "position": 1,
+        "created_at": "2026-08-25T21:56:04+08:00",
+        "updated_at": "2026-08-25T21:56:07+08:00",
+        "alt": null,
+        "width": 4000,
+        "height": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+        "variant_ids": [
+          48231601701100,
+          48231601733868,
+          48231601766636,
+          48231601799404,
+          48231601832172,
+          48231601864940,
+          48231601897708,
+          48231601930476,
+          48231601963244,
+          48231601996012,
+          48231602028780,
+          48231602061548,
+          48231602094316,
+          48231602127084,
+          48231602159852,
+          68198346293484,
+          68198346326252
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Armored Full Fiber Optic HDMI 2.1 Cable, 48Gbps, 8K@60Hz / 4K@120Hz - 5m (15ft)",
+      "public_title": "5m (15ft)",
+      "options": [
+        "5m (15ft)"
+      ],
+      "price": 8099,
+      "weight": 220,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37928025063660,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 4000,
+          "width": 4000,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 48231601832172,
+      "title": "6m (20ft)",
+      "option1": "6m (20ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPF21GEN4BK_6M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 47230810718444,
+        "product_id": 9393161961708,
+        "position": 1,
+        "created_at": "2026-08-25T21:56:04+08:00",
+        "updated_at": "2026-08-25T21:56:07+08:00",
+        "alt": null,
+        "width": 4000,
+        "height": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+        "variant_ids": [
+          48231601701100,
+          48231601733868,
+          48231601766636,
+          48231601799404,
+          48231601832172,
+          48231601864940,
+          48231601897708,
+          48231601930476,
+          48231601963244,
+          48231601996012,
+          48231602028780,
+          48231602061548,
+          48231602094316,
+          48231602127084,
+          48231602159852,
+          68198346293484,
+          68198346326252
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Armored Full Fiber Optic HDMI 2.1 Cable, 48Gbps, 8K@60Hz / 4K@120Hz - 6m (20ft)",
+      "public_title": "6m (20ft)",
+      "options": [
+        "6m (20ft)"
+      ],
+      "price": 8299,
+      "weight": 230,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37928025063660,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 4000,
+          "width": 4000,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 48231601864940,
+      "title": "7.6m (25ft)",
+      "option1": "7.6m (25ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPF21GEN4BK_7.6M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 47230810718444,
+        "product_id": 9393161961708,
+        "position": 1,
+        "created_at": "2026-08-25T21:56:04+08:00",
+        "updated_at": "2026-08-25T21:56:07+08:00",
+        "alt": null,
+        "width": 4000,
+        "height": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+        "variant_ids": [
+          48231601701100,
+          48231601733868,
+          48231601766636,
+          48231601799404,
+          48231601832172,
+          48231601864940,
+          48231601897708,
+          48231601930476,
+          48231601963244,
+          48231601996012,
+          48231602028780,
+          48231602061548,
+          48231602094316,
+          48231602127084,
+          48231602159852,
+          68198346293484,
+          68198346326252
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Armored Full Fiber Optic HDMI 2.1 Cable, 48Gbps, 8K@60Hz / 4K@120Hz - 7.6m (25ft)",
+      "public_title": "7.6m (25ft)",
+      "options": [
+        "7.6m (25ft)"
+      ],
+      "price": 8399,
+      "weight": 250,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37928025063660,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 4000,
+          "width": 4000,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 48231601897708,
+      "title": "10m (33ft)",
+      "option1": "10m (33ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPF21GEN4BK_10M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 47230810718444,
+        "product_id": 9393161961708,
+        "position": 1,
+        "created_at": "2026-08-25T21:56:04+08:00",
+        "updated_at": "2026-08-25T21:56:07+08:00",
+        "alt": null,
+        "width": 4000,
+        "height": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+        "variant_ids": [
+          48231601701100,
+          48231601733868,
+          48231601766636,
+          48231601799404,
+          48231601832172,
+          48231601864940,
+          48231601897708,
+          48231601930476,
+          48231601963244,
+          48231601996012,
+          48231602028780,
+          48231602061548,
+          48231602094316,
+          48231602127084,
+          48231602159852,
+          68198346293484,
+          68198346326252
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Armored Full Fiber Optic HDMI 2.1 Cable, 48Gbps, 8K@60Hz / 4K@120Hz - 10m (33ft)",
+      "public_title": "10m (33ft)",
+      "options": [
+        "10m (33ft)"
+      ],
+      "price": 8699,
+      "weight": 270,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37928025063660,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 4000,
+          "width": 4000,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 48231601930476,
+      "title": "12m (40ft)",
+      "option1": "12m (40ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPF21GEN4BK_12M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 47230810718444,
+        "product_id": 9393161961708,
+        "position": 1,
+        "created_at": "2026-08-25T21:56:04+08:00",
+        "updated_at": "2026-08-25T21:56:07+08:00",
+        "alt": null,
+        "width": 4000,
+        "height": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+        "variant_ids": [
+          48231601701100,
+          48231601733868,
+          48231601766636,
+          48231601799404,
+          48231601832172,
+          48231601864940,
+          48231601897708,
+          48231601930476,
+          48231601963244,
+          48231601996012,
+          48231602028780,
+          48231602061548,
+          48231602094316,
+          48231602127084,
+          48231602159852,
+          68198346293484,
+          68198346326252
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Armored Full Fiber Optic HDMI 2.1 Cable, 48Gbps, 8K@60Hz / 4K@120Hz - 12m (40ft)",
+      "public_title": "12m (40ft)",
+      "options": [
+        "12m (40ft)"
+      ],
+      "price": 9599,
+      "weight": 280,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37928025063660,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 4000,
+          "width": 4000,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 48231601963244,
+      "title": "15m (50ft)",
+      "option1": "15m (50ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPF21GEN4BK_15M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 47230810718444,
+        "product_id": 9393161961708,
+        "position": 1,
+        "created_at": "2026-08-25T21:56:04+08:00",
+        "updated_at": "2026-08-25T21:56:07+08:00",
+        "alt": null,
+        "width": 4000,
+        "height": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+        "variant_ids": [
+          48231601701100,
+          48231601733868,
+          48231601766636,
+          48231601799404,
+          48231601832172,
+          48231601864940,
+          48231601897708,
+          48231601930476,
+          48231601963244,
+          48231601996012,
+          48231602028780,
+          48231602061548,
+          48231602094316,
+          48231602127084,
+          48231602159852,
+          68198346293484,
+          68198346326252
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Armored Full Fiber Optic HDMI 2.1 Cable, 48Gbps, 8K@60Hz / 4K@120Hz - 15m (50ft)",
+      "public_title": "15m (50ft)",
+      "options": [
+        "15m (50ft)"
+      ],
+      "price": 10099,
+      "weight": 300,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37928025063660,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 4000,
+          "width": 4000,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 48231601996012,
+      "title": "20m (65ft)",
+      "option1": "20m (65ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPF21GEN4BK_20M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 47230810718444,
+        "product_id": 9393161961708,
+        "position": 1,
+        "created_at": "2026-08-25T21:56:04+08:00",
+        "updated_at": "2026-08-25T21:56:07+08:00",
+        "alt": null,
+        "width": 4000,
+        "height": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+        "variant_ids": [
+          48231601701100,
+          48231601733868,
+          48231601766636,
+          48231601799404,
+          48231601832172,
+          48231601864940,
+          48231601897708,
+          48231601930476,
+          48231601963244,
+          48231601996012,
+          48231602028780,
+          48231602061548,
+          48231602094316,
+          48231602127084,
+          48231602159852,
+          68198346293484,
+          68198346326252
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Armored Full Fiber Optic HDMI 2.1 Cable, 48Gbps, 8K@60Hz / 4K@120Hz - 20m (65ft)",
+      "public_title": "20m (65ft)",
+      "options": [
+        "20m (65ft)"
+      ],
+      "price": 10599,
+      "weight": 340,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37928025063660,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 4000,
+          "width": 4000,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 48231602028780,
+      "title": "25m (85ft)",
+      "option1": "25m (85ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPF21GEN4BK_25M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 47230810718444,
+        "product_id": 9393161961708,
+        "position": 1,
+        "created_at": "2026-08-25T21:56:04+08:00",
+        "updated_at": "2026-08-25T21:56:07+08:00",
+        "alt": null,
+        "width": 4000,
+        "height": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+        "variant_ids": [
+          48231601701100,
+          48231601733868,
+          48231601766636,
+          48231601799404,
+          48231601832172,
+          48231601864940,
+          48231601897708,
+          48231601930476,
+          48231601963244,
+          48231601996012,
+          48231602028780,
+          48231602061548,
+          48231602094316,
+          48231602127084,
+          48231602159852,
+          68198346293484,
+          68198346326252
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Armored Full Fiber Optic HDMI 2.1 Cable, 48Gbps, 8K@60Hz / 4K@120Hz - 25m (85ft)",
+      "public_title": "25m (85ft)",
+      "options": [
+        "25m (85ft)"
+      ],
+      "price": 11099,
+      "weight": 390,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37928025063660,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 4000,
+          "width": 4000,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 48231602061548,
+      "title": "30m (100ft)",
+      "option1": "30m (100ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPF21GEN4BK_30M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 47230810718444,
+        "product_id": 9393161961708,
+        "position": 1,
+        "created_at": "2026-08-25T21:56:04+08:00",
+        "updated_at": "2026-08-25T21:56:07+08:00",
+        "alt": null,
+        "width": 4000,
+        "height": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+        "variant_ids": [
+          48231601701100,
+          48231601733868,
+          48231601766636,
+          48231601799404,
+          48231601832172,
+          48231601864940,
+          48231601897708,
+          48231601930476,
+          48231601963244,
+          48231601996012,
+          48231602028780,
+          48231602061548,
+          48231602094316,
+          48231602127084,
+          48231602159852,
+          68198346293484,
+          68198346326252
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Armored Full Fiber Optic HDMI 2.1 Cable, 48Gbps, 8K@60Hz / 4K@120Hz - 30m (100ft)",
+      "public_title": "30m (100ft)",
+      "options": [
+        "30m (100ft)"
+      ],
+      "price": 11599,
+      "weight": 430,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37928025063660,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 4000,
+          "width": 4000,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 48231602094316,
+      "title": "40m (130ft)",
+      "option1": "40m (130ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPF21GEN4BK_40M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 47230810718444,
+        "product_id": 9393161961708,
+        "position": 1,
+        "created_at": "2026-08-25T21:56:04+08:00",
+        "updated_at": "2026-08-25T21:56:07+08:00",
+        "alt": null,
+        "width": 4000,
+        "height": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+        "variant_ids": [
+          48231601701100,
+          48231601733868,
+          48231601766636,
+          48231601799404,
+          48231601832172,
+          48231601864940,
+          48231601897708,
+          48231601930476,
+          48231601963244,
+          48231601996012,
+          48231602028780,
+          48231602061548,
+          48231602094316,
+          48231602127084,
+          48231602159852,
+          68198346293484,
+          68198346326252
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Armored Full Fiber Optic HDMI 2.1 Cable, 48Gbps, 8K@60Hz / 4K@120Hz - 40m (130ft)",
+      "public_title": "40m (130ft)",
+      "options": [
+        "40m (130ft)"
+      ],
+      "price": 13499,
+      "weight": 500,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37928025063660,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 4000,
+          "width": 4000,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 48231602127084,
+      "title": "50m (165ft)",
+      "option1": "50m (165ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPF21GEN4BK_50M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 47230810718444,
+        "product_id": 9393161961708,
+        "position": 1,
+        "created_at": "2026-08-25T21:56:04+08:00",
+        "updated_at": "2026-08-25T21:56:07+08:00",
+        "alt": null,
+        "width": 4000,
+        "height": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+        "variant_ids": [
+          48231601701100,
+          48231601733868,
+          48231601766636,
+          48231601799404,
+          48231601832172,
+          48231601864940,
+          48231601897708,
+          48231601930476,
+          48231601963244,
+          48231601996012,
+          48231602028780,
+          48231602061548,
+          48231602094316,
+          48231602127084,
+          48231602159852,
+          68198346293484,
+          68198346326252
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Armored Full Fiber Optic HDMI 2.1 Cable, 48Gbps, 8K@60Hz / 4K@120Hz - 50m (165ft)",
+      "public_title": "50m (165ft)",
+      "options": [
+        "50m (165ft)"
+      ],
+      "price": 16099,
+      "weight": 580,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37928025063660,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 4000,
+          "width": 4000,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 48231602159852,
+      "title": "70m (230ft)",
+      "option1": "70m (230ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPF21GEN4BK_70M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 47230810718444,
+        "product_id": 9393161961708,
+        "position": 1,
+        "created_at": "2026-08-25T21:56:04+08:00",
+        "updated_at": "2026-08-25T21:56:07+08:00",
+        "alt": null,
+        "width": 4000,
+        "height": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+        "variant_ids": [
+          48231601701100,
+          48231601733868,
+          48231601766636,
+          48231601799404,
+          48231601832172,
+          48231601864940,
+          48231601897708,
+          48231601930476,
+          48231601963244,
+          48231601996012,
+          48231602028780,
+          48231602061548,
+          48231602094316,
+          48231602127084,
+          48231602159852,
+          68198346293484,
+          68198346326252
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Armored Full Fiber Optic HDMI 2.1 Cable, 48Gbps, 8K@60Hz / 4K@120Hz - 70m (230ft)",
+      "public_title": "70m (230ft)",
+      "options": [
+        "70m (230ft)"
+      ],
+      "price": 18099,
+      "weight": 710,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37928025063660,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 4000,
+          "width": 4000,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 68198346293484,
+      "title": "100m(330ft)",
+      "option1": "100m(330ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPF21GEN4BK_100M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 47230810718444,
+        "product_id": 9393161961708,
+        "position": 1,
+        "created_at": "2026-08-25T21:56:04+08:00",
+        "updated_at": "2026-08-25T21:56:07+08:00",
+        "alt": null,
+        "width": 4000,
+        "height": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+        "variant_ids": [
+          48231601701100,
+          48231601733868,
+          48231601766636,
+          48231601799404,
+          48231601832172,
+          48231601864940,
+          48231601897708,
+          48231601930476,
+          48231601963244,
+          48231601996012,
+          48231602028780,
+          48231602061548,
+          48231602094316,
+          48231602127084,
+          48231602159852,
+          68198346293484,
+          68198346326252
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Armored Full Fiber Optic HDMI 2.1 Cable, 48Gbps, 8K@60Hz / 4K@120Hz - 100m(330ft)",
+      "public_title": "100m(330ft)",
+      "options": [
+        "100m(330ft)"
+      ],
+      "price": 20099,
+      "weight": 810,
+      "compare_at_price": 20099,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37928025063660,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 4000,
+          "width": 4000,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 68198346326252,
+      "title": "200m(660ft)",
+      "option1": "200m(660ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNPF21GEN4BK_200M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 47230810718444,
+        "product_id": 9393161961708,
+        "position": 1,
+        "created_at": "2026-08-25T21:56:04+08:00",
+        "updated_at": "2026-08-25T21:56:07+08:00",
+        "alt": null,
+        "width": 4000,
+        "height": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+        "variant_ids": [
+          48231601701100,
+          48231601733868,
+          48231601766636,
+          48231601799404,
+          48231601832172,
+          48231601864940,
+          48231601897708,
+          48231601930476,
+          48231601963244,
+          48231601996012,
+          48231602028780,
+          48231602061548,
+          48231602094316,
+          48231602127084,
+          48231602159852,
+          68198346293484,
+          68198346326252
+        ]
+      },
+      "available": true,
+      "name": "RUIPRO 8K Armored Full Fiber Optic HDMI 2.1 Cable, 48Gbps, 8K@60Hz / 4K@120Hz - 200m(660ft)",
+      "public_title": "200m(660ft)",
+      "options": [
+        "200m(660ft)"
+      ],
+      "price": 22099,
+      "weight": 910,
+      "compare_at_price": 22099,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37928025063660,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 4000,
+          "width": 4000,
+          "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/2_576856f5-addb-4b09-ab56-0f06714cad24.jpg?v=1787666167",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/3_0b9cf434-1f7e-45f4-80b6-95d942287667.jpg?v=1787666167",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/4_25f62490-130d-4b8e-9ad5-29557713c27b.jpg?v=1787666167",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/5_6ccbcc95-6a04-43ad-8618-c8cb28a08665.jpg?v=1787666167",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/6_58bda1a3-0ccb-47cc-8fb5-867fc1843973.jpg?v=1787666167",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/8_62590f65-2824-491f-be10-c5fee4e16c81.jpg?v=1787666167",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/61M7XyFH2ZL._SL1500.jpg?v=1787666213"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+  "options": [
+    {
+      "name": "Cable Length",
+      "position": 1,
+      "values": [
+        "1m (3ft)",
+        "2m (6ft)",
+        "3m (10ft)",
+        "5m (15ft)",
+        "6m (20ft)",
+        "7.6m (25ft)",
+        "10m (33ft)",
+        "12m (40ft)",
+        "15m (50ft)",
+        "20m (65ft)",
+        "25m (85ft)",
+        "30m (100ft)",
+        "40m (130ft)",
+        "50m (165ft)",
+        "70m (230ft)",
+        "100m(330ft)",
+        "200m(660ft)"
+      ]
+    }
+  ],
+  "url": "/products/ruipro-8k-armored-full-fiber-optic-hdmi-2-1-cable",
+  "media": [
+    {
+      "alt": null,
+      "id": 37928025063660,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 4000,
+        "width": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167"
+      },
+      "aspect_ratio": 1.0,
+      "height": 4000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/1_5d8cde78-d600-444d-842e-dd136cff4bd2.jpg?v=1787666167",
+      "width": 4000
+    },
+    {
+      "alt": null,
+      "id": 37928025096428,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 4000,
+        "width": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/2_576856f5-addb-4b09-ab56-0f06714cad24.jpg?v=1787666167"
+      },
+      "aspect_ratio": 1.0,
+      "height": 4000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/2_576856f5-addb-4b09-ab56-0f06714cad24.jpg?v=1787666167",
+      "width": 4000
+    },
+    {
+      "alt": null,
+      "id": 37928025129196,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 4000,
+        "width": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/3_0b9cf434-1f7e-45f4-80b6-95d942287667.jpg?v=1787666167"
+      },
+      "aspect_ratio": 1.0,
+      "height": 4000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/3_0b9cf434-1f7e-45f4-80b6-95d942287667.jpg?v=1787666167",
+      "width": 4000
+    },
+    {
+      "alt": null,
+      "id": 37928025161964,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 4000,
+        "width": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/4_25f62490-130d-4b8e-9ad5-29557713c27b.jpg?v=1787666167"
+      },
+      "aspect_ratio": 1.0,
+      "height": 4000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/4_25f62490-130d-4b8e-9ad5-29557713c27b.jpg?v=1787666167",
+      "width": 4000
+    },
+    {
+      "alt": null,
+      "id": 37928025194732,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 4000,
+        "width": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/5_6ccbcc95-6a04-43ad-8618-c8cb28a08665.jpg?v=1787666167"
+      },
+      "aspect_ratio": 1.0,
+      "height": 4000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/5_6ccbcc95-6a04-43ad-8618-c8cb28a08665.jpg?v=1787666167",
+      "width": 4000
+    },
+    {
+      "alt": null,
+      "id": 37928025227500,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 4000,
+        "width": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/6_58bda1a3-0ccb-47cc-8fb5-867fc1843973.jpg?v=1787666167"
+      },
+      "aspect_ratio": 1.0,
+      "height": 4000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/6_58bda1a3-0ccb-47cc-8fb5-867fc1843973.jpg?v=1787666167",
+      "width": 4000
+    },
+    {
+      "alt": null,
+      "id": 37928025260268,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 4000,
+        "width": 4000,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/8_62590f65-2824-491f-be10-c5fee4e16c81.jpg?v=1787666167"
+      },
+      "aspect_ratio": 1.0,
+      "height": 4000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/8_62590f65-2824-491f-be10-c5fee4e16c81.jpg?v=1787666167",
+      "width": 4000
+    },
+    {
+      "alt": null,
+      "id": 37928027226348,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/61M7XyFH2ZL._SL1500.jpg?v=1787666213"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/61M7XyFH2ZL._SL1500.jpg?v=1787666213",
+      "width": 1500
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

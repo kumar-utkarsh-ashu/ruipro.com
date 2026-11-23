@@ -1,0 +1,717 @@
+{
+  "id": 7476475527404,
+  "title": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV",
+  "handle": "8k-hdmi-fiber-cable",
+  "description": "<p><b><span><strong>Model Number: SNAOC21V101A</strong></span></b></p>\n<p>RUIPRO 8K HDMI Cable is the first true 8K60Hz for long reach HDMI interconnection solution on the market, allowing home theatre, gaming enthusiasts, audio visual users, large venue system designers, installers and home enthusiasts to ensure their cabled infrastructure is ready for HDMI 2.1.</p>\n<ul>\n<li>It supports HDMI 2.1 Data Rate up to 48Gbps with light weight, flexible ultra-small and long-term bending radius hybrid cable.\u00a0</li>\n<li>With new designed advanced optical engine embedded 48Gbps, RUIPRO 8K provides full HDMI signal integrity.\u00a0</li>\n</ul>\n<p><br></p>\n<p><b>Key Features:</b></p>\n<ul>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\">[Gen3/C version] Meets the latest 8K HDMI 2.1 specification (8K@60Hz, 4K@120Hz &amp; up to 10K resolution, Dynamic HDR10, eARC, HDCP 2.2&amp;2.3, ALLM, QFT, QMS, VRR), backwards compatible with earlier versions</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\">Dynamic HDR Support: Dynamic HDR ensures every moment of a video is displayed at its ideal values for depth, detail, brightness, contrast, and wider color gamuts on a scene-by-scene or even a frame-by-frame basis</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\">Ultra High Speed 48gbps HDMI Cable: Supports the full range of uncompressed HDMI 2.1 Specification features including 8K video with HDR, Enables up to 48Gbps bandwidth</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\">eARC (Enhanced Audio Return Channel): eARC supports the most advanced high bitrate home theater audio formats, object-based audio, uncompressed 5.1 and 7.1, and 32-channel uncompressed audio; Object-based audio provides an immersive multi-dimensional experience and enhanced audio detail and depth</span></li>\n<li>Plug and Play. No external power needed.</li>\n<li>Low Power Consumption, No loss of signal, Anti-EMI.</li>\n</ul>\n<p><br></p>\n<p><b>INSTALLATION NOTES:</b></p>\n<ul>\n<li>Please test the cable before installation.</li>\n<li>\"SOURCE\" is for Blue-ray player/DVR/Roku Box...</li>\n<li>\"DISPLAY\" is for Projector/HDTV/Monitor/Digital Signage...</li>\n</ul>\n<p>\u00a0</p>",
+  "published_at": "2023-11-21T16:13:37+08:00",
+  "created_at": "2021-12-08T14:25:51+08:00",
+  "vendor": "RUIPRO",
+  "type": "HDMI 2.1 Fiber Optic Cables",
+  "tags": [
+    "RUIPRO"
+  ],
+  "price": 4599,
+  "price_min": 4599,
+  "price_max": 19999,
+  "available": true,
+  "price_varies": true,
+  "compare_at_price": 4599,
+  "compare_at_price_min": 4599,
+  "compare_at_price_max": 19999,
+  "compare_at_price_varies": true,
+  "variants": [
+    {
+      "id": 42151077511404,
+      "title": "1m (3ft)",
+      "option1": "1m (3ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNAOC21V101A_1M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV - 1m (3ft)",
+      "public_title": "1m (3ft)",
+      "options": [
+        "1m (3ft)"
+      ],
+      "price": 4599,
+      "weight": 210,
+      "compare_at_price": 4599,
+      "inventory_management": "shopify",
+      "barcode": "B081SH3LXK",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42151077544172,
+      "title": "2m (6ft)",
+      "option1": "2m (6ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNAOC21V101A_2M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV - 2m (6ft)",
+      "public_title": "2m (6ft)",
+      "options": [
+        "2m (6ft)"
+      ],
+      "price": 4799,
+      "weight": 230,
+      "compare_at_price": 4799,
+      "inventory_management": "shopify",
+      "barcode": "B081SFSVX4",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42151077576940,
+      "title": "3m (10ft)",
+      "option1": "3m (10ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNAOC21V101A_3M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV - 3m (10ft)",
+      "public_title": "3m (10ft)",
+      "options": [
+        "3m (10ft)"
+      ],
+      "price": 4899,
+      "weight": 300,
+      "compare_at_price": 4899,
+      "inventory_management": "shopify",
+      "barcode": "B081SGXMYH",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42151077609708,
+      "title": "5m (15ft)",
+      "option1": "5m (15ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNAOC21V101A_5M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV - 5m (15ft)",
+      "public_title": "5m (15ft)",
+      "options": [
+        "5m (15ft)"
+      ],
+      "price": 7499,
+      "weight": 360,
+      "compare_at_price": 7499,
+      "inventory_management": "shopify",
+      "barcode": "B081SDZZ14",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42151077642476,
+      "title": "6m (20ft)",
+      "option1": "6m (20ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNAOC21V101A_6M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV - 6m (20ft)",
+      "public_title": "6m (20ft)",
+      "options": [
+        "6m (20ft)"
+      ],
+      "price": 7999,
+      "weight": 380,
+      "compare_at_price": 7999,
+      "inventory_management": "shopify",
+      "barcode": "B081SFN2FG",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42151077675244,
+      "title": "7.6m (25ft)",
+      "option1": "7.6m (25ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNAOC21V101A_7.6M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV - 7.6m (25ft)",
+      "public_title": "7.6m (25ft)",
+      "options": [
+        "7.6m (25ft)"
+      ],
+      "price": 8199,
+      "weight": 480,
+      "compare_at_price": 8199,
+      "inventory_management": "shopify",
+      "barcode": "B08XLPX5Z7",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42151077708012,
+      "title": "10m (33ft)",
+      "option1": "10m (33ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNAOC21V101A_10M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV - 10m (33ft)",
+      "public_title": "10m (33ft)",
+      "options": [
+        "10m (33ft)"
+      ],
+      "price": 8599,
+      "weight": 540,
+      "compare_at_price": 8599,
+      "inventory_management": "shopify",
+      "barcode": "B081SQXPWB",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42151077740780,
+      "title": "12m (40ft)",
+      "option1": "12m (40ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNAOC21V101A_12M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV - 12m (40ft)",
+      "public_title": "12m (40ft)",
+      "options": [
+        "12m (40ft)"
+      ],
+      "price": 8799,
+      "weight": 650,
+      "compare_at_price": 8799,
+      "inventory_management": "shopify",
+      "barcode": "B081SF1DKF",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42151077773548,
+      "title": "15m (50ft)",
+      "option1": "15m (50ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNAOC21V101A_15M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV - 15m (50ft)",
+      "public_title": "15m (50ft)",
+      "options": [
+        "15m (50ft)"
+      ],
+      "price": 8999,
+      "weight": 720,
+      "compare_at_price": 8999,
+      "inventory_management": "shopify",
+      "barcode": "B081SHJJ3C",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42151077806316,
+      "title": "20m (65ft)",
+      "option1": "20m (65ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNAOC21V101A_20M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV - 20m (65ft)",
+      "public_title": "20m (65ft)",
+      "options": [
+        "20m (65ft)"
+      ],
+      "price": 9499,
+      "weight": 950,
+      "compare_at_price": 9499,
+      "inventory_management": "shopify",
+      "barcode": "B081SGT9YZ",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42151077839084,
+      "title": "25m (85ft)",
+      "option1": "25m (85ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNAOC21V101A_25M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV - 25m (85ft)",
+      "public_title": "25m (85ft)",
+      "options": [
+        "25m (85ft)"
+      ],
+      "price": 9999,
+      "weight": 1110,
+      "compare_at_price": 9999,
+      "inventory_management": "shopify",
+      "barcode": "B081SGYK2Q",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42151077871852,
+      "title": "30m (100ft)",
+      "option1": "30m (100ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNAOC21V101A_30M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV - 30m (100ft)",
+      "public_title": "30m (100ft)",
+      "options": [
+        "30m (100ft)"
+      ],
+      "price": 10799,
+      "weight": 1160,
+      "compare_at_price": 10799,
+      "inventory_management": "shopify",
+      "barcode": "B081SD8VMB",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44142427963628,
+      "title": "40m (130ft)",
+      "option1": "40m (130ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNAOC21V101A_40M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV - 40m (130ft)",
+      "public_title": "40m (130ft)",
+      "options": [
+        "40m (130ft)"
+      ],
+      "price": 12499,
+      "weight": 1960,
+      "compare_at_price": 12499,
+      "inventory_management": "shopify",
+      "barcode": "B0BZYY1T6M",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44142427996396,
+      "title": "50m (165ft)",
+      "option1": "50m (165ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNAOC21V101A_50M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV - 50m (165ft)",
+      "public_title": "50m (165ft)",
+      "options": [
+        "50m (165ft)"
+      ],
+      "price": 14499,
+      "weight": 2360,
+      "compare_at_price": 14499,
+      "inventory_management": "shopify",
+      "barcode": "B09MD4YVCL",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44142428029164,
+      "title": "60m (200ft)",
+      "option1": "60m (200ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNAOC21V101A_60M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV - 60m (200ft)",
+      "public_title": "60m (200ft)",
+      "options": [
+        "60m (200ft)"
+      ],
+      "price": 16499,
+      "weight": 3180,
+      "compare_at_price": 16499,
+      "inventory_management": "shopify",
+      "barcode": "\u200e B0BZYW2JVX",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44142428061932,
+      "title": "70m (230ft)",
+      "option1": "70m (230ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNAOC21V101A_70M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV - 70m (230ft)",
+      "public_title": "70m (230ft)",
+      "options": [
+        "70m (230ft)"
+      ],
+      "price": 16999,
+      "weight": 3320,
+      "compare_at_price": 16999,
+      "inventory_management": "shopify",
+      "barcode": "B0BZYXPXLD",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44142428094700,
+      "title": "80m (265ft)",
+      "option1": "80m (265ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNAOC21V101A_80M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV - 80m (265ft)",
+      "public_title": "80m (265ft)",
+      "options": [
+        "80m (265ft)"
+      ],
+      "price": 18499,
+      "weight": 3490,
+      "compare_at_price": 18499,
+      "inventory_management": "shopify",
+      "barcode": "B0BZZ12WK8",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44142428127468,
+      "title": "100m (330ft)",
+      "option1": "100m (330ft)",
+      "option2": null,
+      "option3": null,
+      "sku": "SNAOC21V101A_100M",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "RUIPRO 8K Fiber Optic HDMI Cable 48Gbps 8K60Hz 4K120Hz Dynamic HDR eARC HDCP2.2/2.3 for RTX4080/4090/3080/3090, Xbox S/X, PS5/4, AVR, Projector, LG/Samsung/Sony TV - 100m (330ft)",
+      "public_title": "100m (330ft)",
+      "options": [
+        "100m (330ft)"
+      ],
+      "price": 19999,
+      "weight": 4890,
+      "compare_at_price": 19999,
+      "inventory_management": "shopify",
+      "barcode": "B0BZYXJZBG",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-fiber-optic-hdmi-cable-gen3c-48gbps-ultra-high-speed.jpg?v=1762506860",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-hdmi-ultra-high-speed-dynamic-hdr-vrr-earc-48gbps.jpg?v=1762506933",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-fiber-optic-hdmi-optical-_fiber-transmission-earc-audio.jpg?v=1762507044",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-hdmi-cable-dynamic-hdr-bt2020-wide-color-gamut.jpg?v=1762506970",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-fiber-optic-hdmi-cable-flexible-lightweight-easy-routing.jpg?v=1762506911",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-hdmi-cable-compatible-rtx4090-ps5-xbox-projector.jpg?v=1762506880",
+    "//cdn.shopify.com/s/files/1/0614/1208/1900/files/5_7a1a99a8-e046-4059-b41b-94c35137f09f.jpg?v=1741577309"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-fiber-optic-hdmi-cable-gen3c-48gbps-ultra-high-speed.jpg?v=1762506860",
+  "options": [
+    {
+      "name": "Cable Length",
+      "position": 1,
+      "values": [
+        "1m (3ft)",
+        "2m (6ft)",
+        "3m (10ft)",
+        "5m (15ft)",
+        "6m (20ft)",
+        "7.6m (25ft)",
+        "10m (33ft)",
+        "12m (40ft)",
+        "15m (50ft)",
+        "20m (65ft)",
+        "25m (85ft)",
+        "30m (100ft)",
+        "40m (130ft)",
+        "50m (165ft)",
+        "60m (200ft)",
+        "70m (230ft)",
+        "80m (265ft)",
+        "100m (330ft)"
+      ]
+    }
+  ],
+  "url": "/products/8k-hdmi-fiber-cable",
+  "media": [
+    {
+      "alt": "RUIPRO 8K fiber optic HDMI 2.1 cable Gen3/C version supporting 48Gbps, 8K60Hz, 4K120Hz, Dynamic HDR and eARC for gaming, home theater and projectors.",
+      "id": 35067104133356,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-fiber-optic-hdmi-cable-gen3c-48gbps-ultra-high-speed.jpg?v=1762506860"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-fiber-optic-hdmi-cable-gen3c-48gbps-ultra-high-speed.jpg?v=1762506860",
+      "width": 1500
+    },
+    {
+      "alt": "RUIPRO Ultra High Speed 8K HDMI cable supporting Dynamic HDR, VRR, ALLM, eARC and full 48Gbps bandwidth for smooth gaming and cinematic clarity.",
+      "id": 35048605253868,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-hdmi-ultra-high-speed-dynamic-hdr-vrr-earc-48gbps.jpg?v=1762506933"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-hdmi-ultra-high-speed-dynamic-hdr-vrr-earc-48gbps.jpg?v=1762506933",
+      "width": 1500
+    },
+    {
+      "alt": "Fiber optic transmission supporting eARC for high-bitrate audio formats including Dolby Atmos and DTS:X, ensuring zero interference signal integrity.",
+      "id": 32132183752940,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-fiber-optic-hdmi-optical-_fiber-transmission-earc-audio.jpg?v=1762507044"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-fiber-optic-hdmi-optical-_fiber-transmission-earc-audio.jpg?v=1762507044",
+      "width": 1500
+    },
+    {
+      "alt": "RUIPRO 8K HDMI cable delivering Dynamic HDR with BT.2020 wide color gamut for enhanced brightness, contrast and realistic image quality.",
+      "id": 32132183654636,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-hdmi-cable-dynamic-hdr-bt2020-wide-color-gamut.jpg?v=1762506970"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-hdmi-cable-dynamic-hdr-bt2020-wide-color-gamut.jpg?v=1762506970",
+      "width": 1500
+    },
+    {
+      "alt": "Lightweight and flexible RUIPRO 8K fiber optic HDMI cable designed for easy in-wall routing and long-distance stable signal transmission.",
+      "id": 35048605188332,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-fiber-optic-hdmi-cable-flexible-lightweight-easy-routing.jpg?v=1762506911"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-fiber-optic-hdmi-cable-flexible-lightweight-easy-routing.jpg?v=1762506911",
+      "width": 1500
+    },
+    {
+      "alt": "RUIPRO 8K HDMI cable compatible with RTX 4080/4090 GPUs, PS5, Xbox Series X, AVR receivers, LG Samsung Sony TVs and 8K projectors.",
+      "id": 35048605221100,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-hdmi-cable-compatible-rtx4090-ps5-xbox-projector.jpg?v=1762506880"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/ruipro-8k-hdmi-cable-compatible-rtx4090-ps5-xbox-projector.jpg?v=1762506880",
+      "width": 1500
+    },
+    {
+      "alt": null,
+      "id": 35048604991724,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/5_7a1a99a8-e046-4059-b41b-94c35137f09f.jpg?v=1741577309"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0614/1208/1900/files/5_7a1a99a8-e046-4059-b41b-94c35137f09f.jpg?v=1741577309",
+      "width": 1500
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}
