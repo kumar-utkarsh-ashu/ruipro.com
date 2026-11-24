@@ -50,6 +50,14 @@ All work on this project strictly follows the IMET structure:
   2. Formulated client presentation strategy emphasizing UI/UX design review versus WordPress production build.
   3. Prepared architectural evaluation recommending a lightweight custom WordPress theme over the legacy Avada theme for performance and Core Web Vitals optimization.
   4. Prepared client sign-off email and consolidated revision gateway.
+- Version 1.5.0 (2026-11-24): Deployment Artifact Pruning & Asset Storage Optimization:
+  1. Diagnosed deployment storage footprint on Vercel: resolved artifact bloat caused by redundant unreferenced raw asset copies in public/.
+  2. Deleted 26 unreferenced loose product image duplicates in public/images/products/ (-16.88MB).
+  3. Deleted 11 unused high-resolution staging application scenes in public/images/application/ (-14.22MB).
+  4. Deleted 9 redundant product.json scrape dumps in public/ subfolders (-250KB).
+  5. Optimized oversized uncompressed 10MB raw camera PNG (image_4.png) down to 2.52MB (-7.4MB) while preserving 1600x1600 crisp visual clarity.
+  6. Re-encoded large news and application photography using optimized progressive JPEG compression, reducing public/ folder from 79.67MB down to 35.00MB (over 56% size reduction).
+  7. Removed stale local build cache (.next.nosync and cache) and validated zero-error static compilation across all 34 routes.
 
 ---
 
